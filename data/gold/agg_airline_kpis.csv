@@ -1,0 +1,5 @@
+airline,flight_count,average_duration_minutes,overnight_flight_count,booking_count,confirmed_booking_count,cancelled_booking_count,cancellation_rate
+Air India,236,163.33487217514124,30,211,67,66,0.3127962085308057
+SpiceJet,240,163.53762402777778,29,229,83,85,0.37117903930131
+Unknown,48,179.45833333333334,6,52,18,17,0.3269230769230769
+Vistara,223,162.23336180866966,28,215,86,71,0.3302325581395349

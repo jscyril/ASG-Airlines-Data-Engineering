@@ -1,0 +1,8 @@
+dataset,rule,failed_records
+flights,invalid_flight_id,273
+flights,duration_anomaly,0
+flights,overnight_flight,125
+bookings,invalid_status_or_key,75
+payments,missing_amount,78
+payments,missing_key,0
+passengers,pii_removed,0

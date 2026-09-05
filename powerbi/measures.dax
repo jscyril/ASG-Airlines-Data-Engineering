@@ -1,0 +1,21 @@
+Total Flights = COUNTROWS(fact_flight_operations)
+
+Average Flight Duration (min) = AVERAGE(fact_flight_operations[duration_minutes])
+
+Median Flight Duration (min) = MEDIAN(fact_flight_operations[duration_minutes])
+
+Overnight Flights = CALCULATE(COUNTROWS(fact_flight_operations), fact_flight_operations[overnight_flag] = TRUE())
+
+Overnight Flight Rate = DIVIDE([Overnight Flights], [Total Flights])
+
+Valid Bookings = COUNTROWS(fact_bookings)
+
+Confirmed Bookings = CALCULATE(COUNTROWS(fact_bookings), fact_bookings[status] = "CONFIRMED")
+
+Cancelled Bookings = CALCULATE(COUNTROWS(fact_bookings), fact_bookings[status] = "CANCELLED")
+
+Cancellation Rate = DIVIDE([Cancelled Bookings], [Valid Bookings])
+
+Payment Total = SUM(fact_payments[amount])
+
+Average Payment = AVERAGE(fact_payments[amount])

@@ -1,0 +1,25 @@
+dataset,metric,value,details
+flights,row_count,1020,
+flights,column_count,7,
+flights,duplicate_row_count,15,
+flights,missing_value_count,41,airline
+payments,row_count,1000,
+payments,column_count,4,
+payments,duplicate_row_count,0,
+payments,missing_value_count,48,amount
+bookings,row_count,1000,
+bookings,column_count,9,
+bookings,duplicate_row_count,0,
+bookings,missing_value_count,45,status
+passengers,row_count,1039,
+passengers,column_count,9,
+passengers,duplicate_row_count,0,
+passengers,missing_value_count,10,last_name
+flights,malformed_flight_id_count,273,
+flights,duplicate_flight_id_count,16,
+flights,timestamp_parse_failure_count,0,
+flights,overnight_flight_count,124,
+flights,negative_raw_duration_count,1,
+bookings,orphan_flight_reference_count,0,
+payments,duplicate_booking_reference_count,363,
+passengers,pii_column_count,3,"email, phone, aadhaar_id"

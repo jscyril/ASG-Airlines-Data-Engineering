@@ -1,0 +1,22 @@
+[project]
+name = "airlines-case-study"
+version = "0.1.0"
+description = "Add your description here"
+authors = [
+    { name = "jscyril", email = "jacobsebcyril@gmail.com" }
+]
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "openpyxl>=3.1.5",
+    "pandas>=3.0.5",
+    "pyarrow>=25.0.1",
+    "pytest>=9.1.1",
+]
+
+[project.scripts]
+airlines-case-study = "airlines_case_study:main"
+
+[build-system]
+requires = ["uv_build>=0.12.9,<0.13.0"]
+build-backend = "uv_build"

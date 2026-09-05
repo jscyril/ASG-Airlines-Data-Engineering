@@ -1,0 +1,9 @@
+metric,value
+total_flights,747.0
+average_duration_minutes,164.10722795626953
+median_duration_minutes,164.0
+overnight_flight_count,93.0
+valid_booking_count,679.0
+confirmed_booking_count,242.0
+cancellation_rate,0.33726067746686306
+payment_total_with_amount,5419385.34
