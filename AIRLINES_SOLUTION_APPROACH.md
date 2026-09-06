@@ -48,11 +48,11 @@ The workbook contains four logical entities:
 | Entity | Approx. rows | Key fields | Main issues |
 |---|---:|---|---|
 | Flights | 1,020 | `flight_id` | malformed IDs, missing airlines, time issues, overnight flights |
-| Bookings | 1,003 | `booking_id`, `flight_id`, `passenger_id` | missing statuses and incomplete records |
+| Bookings | 1,000 | `booking_id`, `flight_id`, `passenger_id` | missing statuses and incomplete records |
 | Payments | 1,000 | `payment_id`, `booking_id` | missing amounts and repeated booking references |
 | Passengers | 1,039 | `passenger_id` | raw PII: email, phone, Aadhaar, DOB |
 
-Observed issues include 273 malformed flight IDs, 41 missing airline values, 48 missing payment amounts, 48 missing booking statuses, 3 incomplete booking records, 124 overnight flights, and a negative raw duration after direct timestamp subtraction. Treat these as profiling findings, not assumptions to hide.
+Observed issues include 273 malformed flight IDs, 41 missing airline values, 78 missing payment amounts, 45 missing booking statuses, 124 source overnight flights (125 after the rollover rule), and a negative raw duration after direct timestamp subtraction. Treat these as profiling findings, not assumptions to hide.
 
 ## 4. Data-layer design
 

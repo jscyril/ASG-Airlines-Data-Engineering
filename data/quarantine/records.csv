@@ -1,349 +1,349 @@
-dataset,quarantine_reason,flight_id,airline,source,destination,departure_time,arrival_time,flight_id_raw,duration_raw,flight_id_valid_flag,arrival_time_adjusted,overnight_flag,duration_minutes,duration_anomaly_flag,booking_id,booking_date,status,status_valid_flag
-flights,invalid flight ID or duration anomaly,6F196,IndiGo,CCU,MAA,2026-04-20 23:04:41.703,2026-04-21 00:47:41.703,6F196,,False,2026-04-21 00:47:41.703,True,103.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F025,IndiGo,BLR,BOM,2026-04-20 23:02:41.701,2026-04-20 23:57:41.701,6F025,,False,2026-04-20 23:57:41.701,False,55.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F251,Unknown,DEL,BLR,2026-04-20 22:56:41.703,2026-04-20 23:37:41.703,6F251,,False,2026-04-20 23:37:41.703,False,41.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F026,IndiGo,BOM,CCU,2026-04-20 22:46:42.000,2026-04-21 03:13:42.000,6F026,,False,2026-04-21 03:13:42.000,True,267.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F099,IndiGo,MAA,DEL,2026-04-20 22:24:41.702,2026-04-20 22:59:41.702,6F099,,False,2026-04-20 22:59:41.702,False,35.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F164,IndiGo,BLR,BOM,2026-04-20 22:18:41.703,2026-04-21 00:45:41.703,6F164,,False,2026-04-21 00:45:41.703,True,147.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F195,IndiGo,CCU,DEL,2026-04-20 21:44:41.703,2026-04-20 22:39:41.703,6F195,,False,2026-04-20 22:39:41.703,False,55.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F174,IndiGo,DEL,HYD,2026-04-20 21:36:41.703,2026-04-20 22:16:41.703,6F174,,False,2026-04-20 22:16:41.703,False,40.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F213,IndiGo,BLR,BOM,2026-04-20 21:05:41.703,2026-04-21 00:32:41.703,6F213,,False,2026-04-21 00:32:41.703,True,207.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F236,IndiGo,BOM,DEL,2026-04-20 20:35:41.704,2026-04-20 23:54:41.704,6F236,,False,2026-04-20 23:54:41.704,False,199.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F086,IndiGo,MAA,HYD,2026-04-20 20:23:41.702,2026-04-20 21:00:41.702,6F086,,False,2026-04-20 21:00:41.702,False,37.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F114,IndiGo,BOM,MAA,2026-04-20 20:10:41.702,2026-04-20 21:00:41.702,6F114,,False,2026-04-20 21:00:41.702,False,50.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F190,IndiGo,DEL,MAA,2026-04-20 20:02:41.703,2026-04-21 00:36:41.703,6F190,,False,2026-04-21 00:36:41.703,True,274.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F028,IndiGo,HYD,CCU,2026-04-20 19:49:41.701,2026-04-20 21:49:41.701,6F028,,False,2026-04-20 21:49:41.701,False,120.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F151,IndiGo,CCU,HYD,2026-04-20 19:44:41.703,2026-04-20 22:04:41.703,6F151,,False,2026-04-20 22:04:41.703,False,140.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F270,Unknown,HYD,MAA,2026-04-20 18:14:41.701,2026-04-20 19:02:41.701,6F270,,False,2026-04-20 19:02:41.701,False,48.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F012,IndiGo,CCU,HYD,2026-04-20 18:06:41.701,2026-04-20 21:31:41.701,6F012,,False,2026-04-20 21:31:41.701,False,205.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F149,IndiGo,BLR,CCU,2026-04-20 17:57:41.703,2026-04-20 20:42:41.703,6F149,,False,2026-04-20 20:42:41.703,False,165.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F043,IndiGo,BOM,HYD,2026-04-20 17:17:41.701,2026-04-20 18:43:41.701,6F043,,False,2026-04-20 18:43:41.701,False,86.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F194,IndiGo,BOM,CCU,2026-04-20 16:29:41.703,2026-04-20 18:27:41.703,6F194,,False,2026-04-20 18:27:41.703,False,118.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F097,IndiGo,BLR,BOM,2026-04-20 15:32:41.702,2026-04-20 16:49:41.702,6F097,,False,2026-04-20 16:49:41.702,False,77.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F123,IndiGo,DEL,HYD,2026-04-20 15:26:41.702,2026-04-20 17:12:41.702,6F123,,False,2026-04-20 17:12:41.702,False,106.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F017,IndiGo,CCU,BOM,2026-04-20 15:25:41.701,2026-04-20 18:06:41.701,6F017,,False,2026-04-20 18:06:41.701,False,161.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F245,IndiGo,CCU,BOM,2026-04-20 15:25:41.701,2026-04-20 18:06:41.701,6F245,,False,2026-04-20 18:06:41.701,False,161.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F180,IndiGo,MAA,BLR,2026-04-20 15:24:41.703,2026-04-20 19:48:41.703,6F180,,False,2026-04-20 19:48:41.703,False,264.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F152,IndiGo,CCU,DEL,2026-04-20 15:21:41.703,2026-04-20 17:25:41.703,6F152,,False,2026-04-20 17:25:41.703,False,124.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F188,IndiGo,DEL,HYD,2026-04-20 14:57:41.703,2026-04-20 19:39:41.703,6F188,,False,2026-04-20 19:39:41.703,False,282.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F181,IndiGo,BOM,MAA,2026-04-20 14:55:41.703,2026-04-20 16:43:41.703,6F181,,False,2026-04-20 16:43:41.703,False,108.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F077,IndiGo,CCU,DEL,2026-04-20 14:55:41.702,2026-04-20 19:13:41.702,6F077,,False,2026-04-20 19:13:41.702,False,258.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F191,IndiGo,BLR,DEL,2026-04-20 14:41:41.703,2026-04-20 15:11:41.703,6F191,,False,2026-04-20 15:11:41.703,False,30.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F261,Unknown,CCU,DEL,2026-04-20 14:31:41.703,2026-04-20 17:29:41.703,6F261,,False,2026-04-20 17:29:41.703,False,178.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F129,IndiGo,DEL,CCU,2026-04-20 14:28:41.702,2026-04-20 16:47:41.702,6F129,,False,2026-04-20 16:47:41.702,False,139.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F254,Unknown,MAA,BLR,2026-04-20 14:26:41.703,2026-04-20 18:01:41.703,6F254,,False,2026-04-20 18:01:41.703,False,215.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F030,IndiGo,BOM,DEL,2026-04-20 14:20:41.701,2026-04-20 17:10:41.701,6F030,,False,2026-04-20 17:10:41.701,False,170.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F259,Unknown,BOM,DEL,2026-04-20 14:10:41.703,2026-04-20 15:21:41.703,6F259,,False,2026-04-20 15:21:41.703,False,71.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F051,IndiGo,BLR,BOM,2026-04-20 13:58:41.701,2026-04-20 15:58:41.701,6F051,,False,2026-04-20 15:58:41.701,False,120.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F146,IndiGo,HYD,MAA,2026-04-20 13:51:41.703,2026-04-20 15:07:41.703,6F146,,False,2026-04-20 15:07:41.703,False,76.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F047,IndiGo,MAA,DEL,2026-04-20 13:50:41.701,2026-04-20 15:55:41.701,6F047,,False,2026-04-20 15:55:41.701,False,125.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F229,IndiGo,MAA,DEL,2026-04-20 13:10:41.704,2026-04-20 14:30:41.704,6F229,,False,2026-04-20 14:30:41.704,False,80.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F184,IndiGo,MAA,BOM,2026-04-20 13:05:41.703,2026-04-20 16:04:41.703,6F184,,False,2026-04-20 16:04:41.703,False,179.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F168,IndiGo,HYD,DEL,2026-04-20 12:18:41.703,2026-04-20 15:58:41.703,6F168,,False,2026-04-20 15:58:41.703,False,220.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F255,Unknown,DEL,BOM,2026-04-20 11:59:41.703,2026-04-20 15:33:41.703,6F255,,False,2026-04-20 15:33:41.703,False,214.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F158,IndiGo,CCU,MAA,2026-04-20 11:58:41.703,2026-04-20 16:04:41.703,6F158,,False,2026-04-20 16:04:41.703,False,246.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F034,IndiGo,BOM,DEL,2026-04-20 11:53:41.701,2026-04-20 12:49:41.701,6F034,,False,2026-04-20 12:49:41.701,False,56.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F105,IndiGo,BLR,BOM,2026-04-20 11:46:41.702,2026-04-20 12:58:41.702,6F105,,False,2026-04-20 12:58:41.702,False,72.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F073,IndiGo,DEL,CCU,2026-04-20 11:38:41.702,2026-04-20 15:18:41.702,6F073,,False,2026-04-20 15:18:41.702,False,220.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F234,IndiGo,BOM,DEL,2026-04-20 11:20:41.704,2026-04-20 14:11:41.704,6F234,,False,2026-04-20 14:11:41.704,False,171.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F068,IndiGo,BLR,HYD,2026-04-20 11:17:41.701,2026-04-20 15:06:41.701,6F068,,False,2026-04-20 15:06:41.701,False,229.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F074,IndiGo,HYD,BOM,2026-04-20 11:09:41.702,2026-04-20 14:29:41.702,6F074,,False,2026-04-20 14:29:41.702,False,200.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F018,IndiGo,DEL,BLR,2026-04-20 10:57:41.701,2026-04-20 11:43:41.701,6F018,,False,2026-04-20 11:43:41.701,False,46.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F232,IndiGo,MAA,BLR,2026-04-20 10:39:41.704,2026-04-20 12:22:41.704,6F232,,False,2026-04-20 12:22:41.704,False,103.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F084,IndiGo,CCU,HYD,2026-04-20 10:34:41.702,2026-04-20 11:34:42.000,6F084,,False,2026-04-20 11:34:42.000,False,60.00496666666666,False,,,,
-flights,invalid flight ID or duration anomaly,6F091,IndiGo,BLR,CCU,2026-04-20 10:10:41.702,2026-04-20 11:36:41.702,6F091,,False,2026-04-20 11:36:41.702,False,86.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F049,IndiGo,HYD,DEL,2026-04-20 10:00:41.701,2026-04-20 13:13:41.701,6F049,,False,2026-04-20 13:13:41.701,False,193.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F209,IndiGo,MAA,CCU,2026-04-20 08:40:41.703,2026-04-20 13:40:41.703,6F209,,False,2026-04-20 13:40:41.703,False,300.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F092,IndiGo,MAA,BLR,2026-04-20 08:39:41.702,2026-04-20 09:15:41.702,6F092,,False,2026-04-20 09:15:41.702,False,36.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F238,IndiGo,BOM,DEL,2026-04-20 08:31:41.704,2026-04-20 09:19:41.704,6F238,,False,2026-04-20 09:19:41.704,False,48.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F126,IndiGo,CCU,MAA,2026-04-20 08:21:41.702,2026-04-20 09:39:41.702,6F126,,False,2026-04-20 09:39:41.702,False,78.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F029,IndiGo,BOM,BLR,2026-04-20 07:31:41.701,2026-04-20 11:45:41.701,6F029,,False,2026-04-20 11:45:41.701,False,254.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F056,IndiGo,BOM,MAA,2026-04-20 07:00:41.701,2026-04-20 08:49:41.701,6F056,,False,2026-04-20 08:49:41.701,False,109.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F083,IndiGo,BLR,DEL,2026-04-20 05:24:41.702,2026-04-20 06:03:41.702,6F083,,False,2026-04-20 06:03:41.702,False,39.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F178,IndiGo,BOM,CCU,2026-04-20 04:48:41.703,2026-04-20 09:11:41.703,6F178,,False,2026-04-20 09:11:41.703,False,263.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F133,IndiGo,MAA,BLR,2026-04-20 04:38:41.702,2026-04-20 06:25:41.702,6F133,,False,2026-04-20 06:25:41.702,False,107.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F230,IndiGo,CCU,BLR,2026-04-20 03:34:41.704,2026-04-20 06:47:41.704,6F230,,False,2026-04-20 06:47:41.704,False,193.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F169,IndiGo,BOM,DEL,2026-04-20 03:27:41.703,2026-04-20 08:06:41.703,6F169,,False,2026-04-20 08:06:41.703,False,279.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F250,Unknown,DEL,BLR,2026-04-20 03:26:41.701,2026-04-20 07:30:41.701,6F250,,False,2026-04-20 07:30:41.701,False,244.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F187,IndiGo,BOM,MAA,2026-04-20 03:19:41.703,2026-04-20 07:37:41.703,6F187,,False,2026-04-20 07:37:41.703,False,258.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F179,IndiGo,HYD,MAA,2026-04-20 02:25:41.703,2026-04-20 06:40:41.703,6F179,,False,2026-04-20 06:40:41.703,False,255.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F156,IndiGo,MAA,BOM,2026-04-20 02:23:41.703,2026-04-20 04:57:41.703,6F156,,False,2026-04-20 04:57:41.703,False,154.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F250,Unknown,CCU,BLR,2026-04-20 02:23:41.702,2026-04-20 02:56:41.702,6F250,,False,2026-04-20 02:56:41.702,False,33.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F036,IndiGo,CCU,BLR,2026-04-20 02:14:41.701,2026-04-20 06:57:41.701,6F036,,False,2026-04-20 06:57:41.701,False,283.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F201,IndiGo,CCU,BOM,2026-04-20 02:09:41.703,2026-04-20 06:49:41.703,6F201,,False,2026-04-20 06:49:41.703,False,280.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F143,IndiGo,CCU,DEL,2026-04-20 02:09:41.702,2026-04-20 06:08:41.702,6F143,,False,2026-04-20 06:08:41.702,False,239.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F177,IndiGo,HYD,MAA,2026-04-20 02:03:41.703,2026-04-20 04:25:41.703,6F177,,False,2026-04-20 04:25:41.703,False,142.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F031,IndiGo,BOM,BLR,2026-04-20 02:00:41.701,2026-04-20 06:37:41.701,6F031,,False,2026-04-20 06:37:41.701,False,277.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F122,IndiGo,DEL,BLR,2026-04-20 01:44:41.702,2026-04-20 05:28:41.702,6F122,,False,2026-04-20 05:28:41.702,False,224.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F046,IndiGo,DEL,BLR,2026-04-20 01:27:41.701,2026-04-20 05:08:41.701,6F046,,False,2026-04-20 05:08:41.701,False,221.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F058,IndiGo,BOM,CCU,2026-04-20 01:04:41.701,2026-04-20 03:33:41.701,6F058,,False,2026-04-20 03:33:41.701,False,149.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F193,IndiGo,BOM,MAA,2026-04-20 00:34:41.703,2026-04-20 02:32:41.703,6F193,,False,2026-04-20 02:32:41.703,False,118.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F019,IndiGo,BLR,BOM,2026-04-20 00:19:41.701,2026-04-20 04:14:41.701,6F019,,False,2026-04-20 04:14:41.701,False,235.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F166,IndiGo,BOM,CCU,2026-04-20 00:03:41.703,2026-04-20 04:33:41.703,6F166,,False,2026-04-20 04:33:41.703,False,270.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F010,IndiGo,DEL,BLR,2026-04-19 23:53:41.701,2026-04-20 03:44:41.701,6F010,,False,2026-04-20 03:44:41.701,True,231.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F272,Unknown,HYD,MAA,2026-04-19 23:35:41.702,2026-04-20 00:22:41.702,6F272,,False,2026-04-20 00:22:41.702,True,47.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F070,IndiGo,HYD,DEL,2026-04-19 23:23:41.701,2026-04-20 02:24:41.701,6F070,,False,2026-04-20 02:24:41.701,True,181.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F075,IndiGo,BOM,CCU,2026-04-19 22:20:41.702,2026-04-20 03:02:41.702,6F075,,False,2026-04-20 03:02:41.702,True,282.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F078,IndiGo,BOM,CCU,2026-04-19 22:04:41.702,2026-04-19 23:37:41.702,6F078,,False,2026-04-19 23:37:41.702,False,93.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F260,Unknown,CCU,DEL,2026-04-19 21:51:41.702,2026-04-20 01:14:41.702,6F260,,False,2026-04-20 01:14:41.702,True,203.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F022,IndiGo,MAA,BLR,2026-04-19 21:46:41.701,2026-04-20 02:05:41.701,6F022,,False,2026-04-20 02:05:41.701,True,259.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F237,IndiGo,HYD,MAA,2026-04-19 21:41:41.704,2026-04-20 00:44:41.704,6F237,,False,2026-04-20 00:44:41.704,True,183.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F113,IndiGo,BOM,CCU,2026-04-19 21:04:41.702,2026-04-20 01:30:41.702,6F113,,False,2026-04-20 01:30:41.702,True,266.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F112,IndiGo,HYD,DEL,2026-04-19 21:00:41.702,2026-04-19 23:16:41.702,6F112,,False,2026-04-19 23:16:41.702,False,136.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F246,IndiGo,HYD,DEL,2026-04-19 21:00:41.702,2026-04-19 23:16:41.702,6F246,,False,2026-04-19 23:16:41.702,False,136.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F176,IndiGo,CCU,DEL,2026-04-19 20:23:42.000,2026-04-19 23:23:42.000,6F176,,False,2026-04-19 23:23:42.000,False,180.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F148,IndiGo,CCU,BOM,2026-04-19 20:23:41.703,2026-04-19 22:30:41.703,6F148,,False,2026-04-19 22:30:41.703,False,127.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F202,IndiGo,HYD,BLR,2026-04-19 20:18:41.703,2026-04-19 23:48:41.703,6F202,,False,2026-04-19 23:48:41.703,False,210.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F071,IndiGo,DEL,CCU,2026-04-19 20:18:41.702,2026-04-20 00:31:41.702,6F071,,False,2026-04-20 00:31:41.702,True,253.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F003,IndiGo,HYD,BOM,2026-04-19 20:06:41.700,2026-04-19 23:13:41.700,6F003,,False,2026-04-19 23:13:41.700,False,187.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F249,IndiGo,HYD,BOM,2026-04-19 20:06:41.700,2026-04-19 23:13:41.700,6F249,,False,2026-04-19 23:13:41.700,False,187.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F118,IndiGo,CCU,HYD,2026-04-19 19:52:41.702,2026-04-19 21:01:41.702,6F118,,False,2026-04-19 21:01:41.702,False,69.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F014,IndiGo,DEL,MAA,2026-04-19 19:42:41.701,2026-04-19 23:15:41.701,6F014,,False,2026-04-19 23:15:41.701,False,213.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F065,IndiGo,MAA,BLR,2026-04-19 19:40:41.701,2026-04-19 22:23:41.701,6F065,,False,2026-04-19 22:23:41.701,False,163.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F271,Unknown,HYD,MAA,2026-04-19 19:33:41.702,2026-04-19 22:52:41.702,6F271,,False,2026-04-19 22:52:41.702,False,199.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F007,IndiGo,HYD,MAA,2026-04-19 18:55:41.701,2026-04-19 19:54:41.701,6F007,,False,2026-04-19 19:54:41.701,False,59.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F256,Unknown,BOM,CCU,2026-04-19 18:40:41.702,2026-04-19 19:13:41.702,6F256,,False,2026-04-19 19:13:41.702,False,33.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F127,IndiGo,HYD,BOM,2026-04-19 18:27:41.702,2026-04-19 22:28:41.702,6F127,,False,2026-04-19 22:28:41.702,False,241.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F085,IndiGo,HYD,MAA,2026-04-19 17:32:41.702,2026-04-19 19:32:42.000,6F085,,False,2026-04-19 19:32:42.000,False,120.00496666666666,False,,,,
-flights,invalid flight ID or duration anomaly,6F125,IndiGo,BOM,CCU,2026-04-19 17:09:41.702,2026-04-19 21:13:41.702,6F125,,False,2026-04-19 21:13:41.702,False,244.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F128,IndiGo,HYD,DEL,2026-04-19 16:56:41.702,2026-04-19 18:03:41.702,6F128,,False,2026-04-19 18:03:41.702,False,67.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F224,IndiGo,DEL,MAA,2026-04-19 16:53:41.704,2026-04-19 18:52:41.704,6F224,,False,2026-04-19 18:52:41.704,False,119.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F206,IndiGo,DEL,BOM,2026-04-19 16:39:41.703,2026-04-19 20:59:41.703,6F206,,False,2026-04-19 20:59:41.703,False,260.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F140,IndiGo,CCU,HYD,2026-04-19 16:30:41.702,2026-04-19 18:21:41.702,6F140,,False,2026-04-19 18:21:41.702,False,111.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F253,Unknown,MAA,BLR,2026-04-19 16:26:41.703,2026-04-19 18:24:41.703,6F253,,False,2026-04-19 18:24:41.703,False,118.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F038,IndiGo,HYD,MAA,2026-04-19 15:36:41.701,2026-04-19 19:33:41.701,6F038,,False,2026-04-19 19:33:41.701,False,237.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F199,IndiGo,DEL,MAA,2026-04-19 15:15:41.703,2026-04-19 17:32:41.703,6F199,,False,2026-04-19 17:32:41.703,False,137.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F020,IndiGo,BOM,HYD,2026-04-19 14:58:41.701,2026-04-19 16:43:41.701,6F020,,False,2026-04-19 16:43:41.701,False,105.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F041,IndiGo,MAA,BOM,2026-04-19 13:19:41.701,2026-04-19 16:48:41.701,6F041,,False,2026-04-19 16:48:41.701,False,209.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F175,IndiGo,MAA,CCU,2026-04-19 13:18:41.703,2026-04-19 15:13:41.703,6F175,,False,2026-04-19 15:13:41.703,False,115.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F013,IndiGo,BOM,CCU,2026-04-19 13:15:41.701,2026-04-19 18:05:41.701,6F013,,False,2026-04-19 18:05:41.701,False,290.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F135,IndiGo,MAA,HYD,2026-04-19 12:59:41.702,2026-04-19 13:45:41.702,6F135,,False,2026-04-19 13:45:41.702,False,46.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F150,IndiGo,HYD,MAA,2026-04-19 12:55:41.703,2026-04-19 16:53:41.703,6F150,,False,2026-04-19 16:53:41.703,False,238.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F134,IndiGo,BLR,MAA,2026-04-19 12:47:41.702,2026-04-19 14:06:41.702,6F134,,False,2026-04-19 14:06:41.702,False,79.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F132,IndiGo,MAA,BOM,2026-04-19 12:00:41.702,2026-04-19 13:00:42.000,6F132,,False,2026-04-19 13:00:42.000,False,60.00496666666666,False,,,,
-flights,invalid flight ID or duration anomaly,6F001,IndiGo,HYD,BOM,2026-04-19 11:33:41.700,2026-04-19 13:08:41.700,6F001,,False,2026-04-19 13:08:41.700,False,95.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F211,IndiGo,MAA,BLR,2026-04-19 11:29:41.703,2026-04-19 16:20:41.703,6F211,,False,2026-04-19 16:20:41.703,False,291.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F235,IndiGo,HYD,MAA,2026-04-19 11:06:41.704,2026-04-19 13:51:41.704,6F235,,False,2026-04-19 13:51:41.704,False,165.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F005,IndiGo,BOM,MAA,2026-04-19 11:04:41.701,2026-04-19 15:27:41.701,6F005,,False,2026-04-19 15:27:41.701,False,263.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F219,IndiGo,MAA,DEL,2026-04-19 10:32:41.704,2026-04-19 14:37:41.704,6F219,,False,2026-04-19 14:37:41.704,False,245.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F220,IndiGo,HYD,BOM,2026-04-19 10:27:41.704,2026-04-19 11:25:41.704,6F220,,False,2026-04-19 11:25:41.704,False,58.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F098,IndiGo,BLR,MAA,2026-04-19 10:18:41.702,2026-04-19 12:49:41.702,6F098,,False,2026-04-19 12:49:41.702,False,151.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F172,IndiGo,BOM,BLR,2026-04-19 09:53:41.703,2026-04-19 14:46:41.703,6F172,,False,2026-04-19 14:46:41.703,False,293.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F243,IndiGo,BOM,HYD,2026-04-19 09:37:41.704,2026-04-19 10:33:41.704,6F243,,False,2026-04-19 10:33:41.704,False,56.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F052,IndiGo,BOM,CCU,2026-04-19 09:13:41.701,2026-04-19 12:02:41.701,6F052,,False,2026-04-19 12:02:41.701,False,169.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F094,IndiGo,BLR,BOM,2026-04-19 07:37:41.702,2026-04-19 09:06:41.702,6F094,,False,2026-04-19 09:06:41.702,False,89.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F024,IndiGo,BOM,DEL,2026-04-19 07:31:41.701,2026-04-19 11:17:41.701,6F024,,False,2026-04-19 11:17:41.701,False,226.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F061,IndiGo,MAA,BOM,2026-04-19 07:28:41.701,2026-04-19 08:09:41.701,6F061,,False,2026-04-19 08:09:41.701,False,41.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F263,Unknown,DEL,HYD,2026-04-19 07:07:41.703,2026-04-19 08:30:41.703,6F263,,False,2026-04-19 08:30:41.703,False,83.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F163,IndiGo,MAA,BOM,2026-04-19 06:49:41.703,2026-04-19 10:46:41.703,6F163,,False,2026-04-19 10:46:41.703,False,237.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F212,IndiGo,BLR,CCU,2026-04-19 06:10:41.703,2026-04-19 10:52:41.703,6F212,,False,2026-04-19 10:52:41.703,False,282.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F066,IndiGo,BLR,HYD,2026-04-19 06:07:41.701,2026-04-19 07:43:41.701,6F066,,False,2026-04-19 07:43:41.701,False,96.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F104,IndiGo,CCU,BOM,2026-04-19 05:39:41.702,2026-04-19 06:14:41.702,6F104,,False,2026-04-19 06:14:41.702,False,35.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F221,IndiGo,MAA,DEL,2026-04-19 05:20:41.704,2026-04-19 08:52:41.704,6F221,,False,2026-04-19 08:52:41.704,False,212.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F063,IndiGo,DEL,HYD,2026-04-19 04:42:41.701,2026-04-19 07:31:41.701,6F063,,False,2026-04-19 07:31:41.701,False,169.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F115,IndiGo,MAA,BLR,2026-04-19 04:41:41.702,2026-04-19 06:23:41.702,6F115,,False,2026-04-19 06:23:41.702,False,102.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F067,IndiGo,MAA,BLR,2026-04-19 02:59:41.701,2026-04-19 06:02:41.701,6F067,,False,2026-04-19 06:02:41.701,False,183.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F170,IndiGo,HYD,DEL,2026-04-19 02:44:41.703,2026-04-19 04:14:41.703,6F170,,False,2026-04-19 04:14:41.703,False,90.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F079,IndiGo,MAA,HYD,2026-04-19 02:14:41.702,2026-04-19 06:18:41.702,6F079,,False,2026-04-19 06:18:41.702,False,244.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F182,IndiGo,BOM,CCU,2026-04-19 02:10:41.703,2026-04-19 04:18:41.703,6F182,,False,2026-04-19 04:18:41.703,False,128.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F142,IndiGo,CCU,MAA,2026-04-19 02:05:41.702,2026-04-19 06:04:41.702,6F142,,False,2026-04-19 06:04:41.702,False,239.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F262,Unknown,MAA,DEL,2026-04-19 01:44:41.702,2026-04-19 02:47:41.702,6F262,,False,2026-04-19 02:47:41.702,False,63.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F269,Unknown,HYD,MAA,2026-04-19 01:30:41.702,2026-04-19 02:52:41.702,6F269,,False,2026-04-19 02:52:41.702,False,82.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F214,IndiGo,BOM,CCU,2026-04-19 01:21:41.703,2026-04-19 05:20:41.703,6F214,,False,2026-04-19 05:20:41.703,False,239.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F059,IndiGo,BOM,DEL,2026-04-19 01:12:41.701,2026-04-19 06:02:41.701,6F059,,False,2026-04-19 06:02:41.701,False,290.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F145,IndiGo,CCU,DEL,2026-04-19 01:02:41.703,2026-04-19 02:18:41.703,6F145,,False,2026-04-19 02:18:41.703,False,76.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F117,IndiGo,CCU,DEL,2026-04-19 00:46:41.702,2026-04-19 01:51:41.702,6F117,,False,2026-04-19 01:51:41.702,False,65.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F226,IndiGo,DEL,BOM,2026-04-19 00:38:41.704,2026-04-19 02:55:41.704,6F226,,False,2026-04-19 02:55:41.704,False,137.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F050,IndiGo,DEL,BOM,2026-04-19 00:35:41.701,2026-04-19 04:32:41.701,6F050,,False,2026-04-19 04:32:41.701,False,237.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F233,IndiGo,BLR,BOM,2026-04-18 23:56:41.704,2026-04-19 03:53:41.704,6F233,,False,2026-04-19 03:53:41.704,True,237.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F015,IndiGo,BOM,CCU,2026-04-18 23:39:41.701,2026-04-19 02:27:41.701,6F015,,False,2026-04-19 02:27:41.701,True,168.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F087,IndiGo,DEL,HYD,2026-04-18 23:24:41.702,2026-04-19 03:10:41.702,6F087,,False,2026-04-19 03:10:41.702,True,226.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F042,IndiGo,HYD,DEL,2026-04-18 22:35:41.701,2026-04-19 02:41:41.701,6F042,,False,2026-04-19 02:41:41.701,True,246.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F016,IndiGo,HYD,BOM,2026-04-18 22:18:41.701,2026-04-18 22:54:41.701,6F016,,False,2026-04-18 22:54:41.701,False,36.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F064,IndiGo,CCU,DEL,2026-04-18 21:45:41.701,2026-04-18 22:50:41.701,6F064,,False,2026-04-18 22:50:41.701,False,65.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F021,IndiGo,BLR,MAA,2026-04-18 21:23:41.701,2026-04-19 01:25:41.701,6F021,,False,2026-04-19 01:25:41.701,True,242.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F141,IndiGo,BOM,CCU,2026-04-18 20:26:41.702,2026-04-18 22:28:41.702,6F141,,False,2026-04-18 22:28:41.702,False,122.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F053,IndiGo,DEL,HYD,2026-04-18 20:26:41.701,2026-04-19 00:39:41.701,6F053,,False,2026-04-19 00:39:41.701,True,253.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F136,IndiGo,CCU,DEL,2026-04-18 20:24:41.702,2026-04-18 21:01:41.702,6F136,,False,2026-04-18 21:01:41.702,False,37.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F009,IndiGo,BLR,CCU,2026-04-18 20:21:41.701,2026-04-18 23:36:41.701,6F009,,False,2026-04-18 23:36:41.701,False,195.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F023,IndiGo,MAA,BLR,2026-04-18 20:18:41.701,2026-04-19 00:14:41.701,6F023,,False,2026-04-19 00:14:41.701,True,236.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F189,IndiGo,MAA,BLR,2026-04-18 20:08:41.703,2026-04-18 21:51:41.703,6F189,,False,2026-04-18 21:51:41.703,False,103.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F004,IndiGo,BOM,CCU,2026-04-18 19:53:41.701,2026-04-18 23:33:41.701,6F004,,False,2026-04-18 23:33:41.701,False,220.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F035,IndiGo,CCU,HYD,2026-04-18 19:16:41.701,2026-04-18 23:40:41.701,6F035,,False,2026-04-18 23:40:41.701,False,264.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F197,IndiGo,BOM,BLR,2026-04-18 17:59:41.703,2026-04-18 22:44:41.703,6F197,,False,2026-04-18 22:44:41.703,False,285.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F111,IndiGo,HYD,DEL,2026-04-18 17:09:41.702,2026-04-18 20:02:41.702,6F111,,False,2026-04-18 20:02:41.702,False,173.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F171,IndiGo,DEL,BLR,2026-04-18 17:03:41.703,2026-04-18 18:12:41.703,6F171,,False,2026-04-18 18:12:41.703,False,69.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F027,IndiGo,BLR,DEL,2026-04-18 16:52:41.701,2026-04-18 18:21:41.701,6F027,,False,2026-04-18 18:21:41.701,False,89.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F039,IndiGo,MAA,CCU,2026-04-18 16:43:41.701,2026-04-18 21:01:41.701,6F039,,False,2026-04-18 21:01:41.701,False,258.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F157,IndiGo,MAA,CCU,2026-04-18 16:37:41.703,2026-04-18 18:04:41.703,6F157,,False,2026-04-18 18:04:41.703,False,87.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F167,IndiGo,BLR,BOM,2026-04-18 16:26:41.703,2026-04-18 17:50:41.703,6F167,,False,2026-04-18 17:50:41.703,False,84.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F055,IndiGo,DEL,CCU,2026-04-18 16:21:41.701,2026-04-18 18:49:41.701,6F055,,False,2026-04-18 18:49:41.701,False,148.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F257,Unknown,MAA,CCU,2026-04-18 16:04:41.704,2026-04-18 19:55:41.704,6F257,,False,2026-04-18 19:55:41.704,False,231.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F103,IndiGo,CCU,MAA,2026-04-18 15:37:41.702,2026-04-18 18:32:41.702,6F103,,False,2026-04-18 18:32:41.702,False,175.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F076,IndiGo,CCU,HYD,2026-04-18 15:35:41.702,2026-04-18 16:20:41.702,6F076,,False,2026-04-18 16:20:41.702,False,45.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F240,IndiGo,DEL,HYD,2026-04-18 15:31:41.704,2026-04-18 19:56:41.704,6F240,,False,2026-04-18 19:56:41.704,False,265.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F037,IndiGo,BOM,MAA,2026-04-18 14:51:41.701,2026-04-18 17:23:41.701,6F037,,False,2026-04-18 17:23:41.701,False,152.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F252,Unknown,MAA,BLR,2026-04-18 14:25:41.701,2026-04-18 18:52:41.701,6F252,,False,2026-04-18 18:52:41.701,False,267.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F107,IndiGo,CCU,BLR,2026-04-18 14:14:41.702,2026-04-18 17:14:42.000,6F107,,False,2026-04-18 17:14:42.000,False,180.0049666666667,False,,,,
-flights,invalid flight ID or duration anomaly,6F264,Unknown,DEL,HYD,2026-04-18 14:03:41.701,2026-04-18 18:23:41.701,6F264,,False,2026-04-18 18:23:41.701,False,260.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F222,IndiGo,HYD,MAA,2026-04-18 14:01:41.704,2026-04-18 16:11:41.704,6F222,,False,2026-04-18 16:11:41.704,False,130.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F227,IndiGo,MAA,BOM,2026-04-18 13:16:41.704,2026-04-18 17:41:41.704,6F227,,False,2026-04-18 17:41:41.704,False,265.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F192,IndiGo,CCU,BLR,2026-04-18 12:20:41.703,2026-04-18 16:45:41.703,6F192,,False,2026-04-18 16:45:41.703,False,265.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F173,IndiGo,BOM,CCU,2026-04-18 12:19:41.703,2026-04-18 13:08:41.703,6F173,,False,2026-04-18 13:08:41.703,False,49.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F109,IndiGo,BLR,BOM,2026-04-18 12:00:41.702,2026-04-18 12:51:41.702,6F109,,False,2026-04-18 12:51:41.702,False,51.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F144,IndiGo,HYD,BOM,2026-04-18 11:56:41.702,2026-04-18 15:11:41.702,6F144,,False,2026-04-18 15:11:41.702,False,195.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F210,IndiGo,HYD,DEL,2026-04-18 11:51:41.703,2026-04-18 15:58:41.703,6F210,,False,2026-04-18 15:58:41.703,False,247.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F154,IndiGo,CCU,DEL,2026-04-18 11:26:41.703,2026-04-18 12:23:41.703,6F154,,False,2026-04-18 12:23:41.703,False,57.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F161,IndiGo,MAA,DEL,2026-04-18 11:24:41.703,2026-04-18 12:21:41.703,6F161,,False,2026-04-18 12:21:41.703,False,57.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F203,IndiGo,BLR,HYD,2026-04-18 11:05:41.703,2026-04-18 12:56:41.703,6F203,,False,2026-04-18 12:56:41.703,False,111.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F124,IndiGo,BLR,BOM,2026-04-18 10:47:41.702,2026-04-18 15:21:41.702,6F124,,False,2026-04-18 15:21:41.702,False,274.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F137,IndiGo,CCU,DEL,2026-04-18 10:45:41.702,2026-04-18 15:01:41.702,6F137,,False,2026-04-18 15:01:41.702,False,256.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F048,IndiGo,HYD,DEL,2026-04-18 10:27:41.701,2026-04-18 11:18:41.701,6F048,,False,2026-04-18 11:18:41.701,False,51.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F131,IndiGo,BLR,HYD,2026-04-18 10:22:41.702,2026-04-18 14:20:41.702,6F131,,False,2026-04-18 14:20:41.702,False,238.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F165,IndiGo,BLR,BOM,2026-04-18 10:11:41.703,2026-04-18 11:09:41.703,6F165,,False,2026-04-18 11:09:41.703,False,58.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F266,Unknown,CCU,MAA,2026-04-18 09:49:41.703,2026-04-18 11:17:41.703,6F266,,False,2026-04-18 11:17:41.703,False,88.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F138,IndiGo,HYD,BLR,2026-04-18 09:49:41.702,2026-04-18 12:53:41.702,6F138,,False,2026-04-18 12:53:41.702,False,184.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F119,IndiGo,DEL,BOM,2026-04-18 09:19:41.702,2026-04-18 11:33:41.702,6F119,,False,2026-04-18 11:33:41.702,False,134.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F208,IndiGo,CCU,BOM,2026-04-18 08:27:41.703,2026-04-18 11:34:41.703,6F208,,False,2026-04-18 11:34:41.703,False,187.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F153,IndiGo,CCU,BLR,2026-04-18 08:23:41.703,2026-04-18 12:20:41.703,6F153,,False,2026-04-18 12:20:41.703,False,237.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F267,Unknown,DEL,MAA,2026-04-18 07:56:41.703,2026-04-18 11:49:41.703,6F267,,False,2026-04-18 11:49:41.703,False,233.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F185,IndiGo,CCU,DEL,2026-04-18 07:49:41.703,2026-04-18 10:08:41.703,6F185,,False,2026-04-18 10:08:41.703,False,139.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F155,IndiGo,DEL,BLR,2026-04-18 07:47:41.703,2026-04-18 08:20:41.703,6F155,,False,2026-04-18 08:20:41.703,False,33.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F225,IndiGo,HYD,CCU,2026-04-18 07:33:41.704,2026-04-18 12:12:41.704,6F225,,False,2026-04-18 12:12:41.704,False,279.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F033,IndiGo,DEL,HYD,2026-04-18 07:08:41.701,2026-04-18 09:08:41.701,6F033,,False,2026-04-18 09:08:41.701,False,120.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F244,IndiGo,MAA,CCU,2026-04-18 07:07:41.704,2026-04-18 08:31:41.704,6F244,,False,2026-04-18 08:31:41.704,False,84.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F081,IndiGo,MAA,BLR,2026-04-18 06:04:41.702,2026-04-18 07:43:41.702,6F081,,False,2026-04-18 07:43:41.702,False,99.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F088,IndiGo,CCU,BLR,2026-04-18 05:51:41.702,2026-04-18 08:22:41.702,6F088,,False,2026-04-18 08:22:41.702,False,151.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F121,IndiGo,HYD,MAA,2026-04-18 05:44:41.702,2026-04-18 10:42:41.702,6F121,,False,2026-04-18 10:42:41.702,False,298.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F060,IndiGo,DEL,BLR,2026-04-18 05:29:41.701,2026-04-18 07:29:42.000,6F060,,False,2026-04-18 07:29:42.000,False,120.00498333333333,False,,,,
-flights,invalid flight ID or duration anomaly,6F120,IndiGo,BLR,BOM,2026-04-18 05:14:41.702,2026-04-18 06:14:41.702,6F120,,False,2026-04-18 06:14:41.702,False,60.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F217,IndiGo,BLR,BOM,2026-04-18 05:13:41.704,2026-04-18 08:01:41.704,6F217,,False,2026-04-18 08:01:41.704,False,168.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F139,IndiGo,HYD,MAA,2026-04-18 04:55:41.702,2026-04-18 08:17:41.702,6F139,,False,2026-04-18 08:17:41.702,False,202.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F062,IndiGo,CCU,DEL,2026-04-18 04:55:41.701,2026-04-18 06:22:41.701,6F062,,False,2026-04-18 06:22:41.701,False,87.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F100,IndiGo,BOM,BLR,2026-04-18 04:40:41.702,2026-04-18 07:49:41.702,6F100,,False,2026-04-18 07:49:41.702,False,189.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F228,IndiGo,HYD,MAA,2026-04-18 04:36:41.704,2026-04-18 09:27:41.704,6F228,,False,2026-04-18 09:27:41.704,False,291.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F160,IndiGo,MAA,BLR,2026-04-18 04:09:41.703,2026-04-18 08:26:41.703,6F160,,False,2026-04-18 08:26:41.703,False,257.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F101,IndiGo,BOM,MAA,2026-04-18 03:18:41.702,2026-04-18 08:15:41.702,6F101,,False,2026-04-18 08:15:41.702,False,297.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F006,IndiGo,BOM,BLR,2026-04-18 03:06:41.701,2026-04-18 05:06:42.000,6F006,,False,2026-04-18 05:06:42.000,False,120.00498333333333,False,,,,
-flights,invalid flight ID or duration anomaly,6F265,Unknown,DEL,HYD,2026-04-18 02:27:41.703,2026-04-18 03:24:41.703,6F265,,False,2026-04-18 03:24:41.703,False,57.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F110,IndiGo,HYD,DEL,2026-04-18 02:27:41.702,2026-04-18 05:48:41.702,6F110,,False,2026-04-18 05:48:41.702,False,201.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F072,IndiGo,BLR,CCU,2026-04-18 02:14:41.702,2026-04-18 03:11:41.702,6F072,,False,2026-04-18 03:11:41.702,False,57.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F159,IndiGo,CCU,BOM,2026-04-18 02:08:41.703,2026-04-18 02:43:41.703,6F159,,False,2026-04-18 02:43:41.703,False,35.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F095,IndiGo,BLR,MAA,2026-04-18 01:53:41.702,2026-04-18 05:34:41.702,6F095,,False,2026-04-18 05:34:41.702,False,221.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F130,IndiGo,DEL,HYD,2026-04-18 01:27:41.702,2026-04-18 02:45:41.702,6F130,,False,2026-04-18 02:45:41.702,False,78.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F247,IndiGo,DEL,HYD,2026-04-18 01:27:41.702,2026-04-18 02:45:41.702,6F247,,False,2026-04-18 02:45:41.702,False,78.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F231,IndiGo,HYD,MAA,2026-04-18 01:16:41.704,2026-04-18 05:43:41.704,6F231,,False,2026-04-18 05:43:41.704,False,267.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F102,IndiGo,HYD,MAA,2026-04-18 01:10:41.702,2026-04-18 02:24:41.702,6F102,,False,2026-04-18 02:24:41.702,False,74.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F008,IndiGo,DEL,BOM,2026-04-18 00:14:41.701,2026-04-18 04:59:41.701,6F008,,False,2026-04-18 04:59:41.701,False,285.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F106,IndiGo,BOM,CCU,2026-04-18 00:10:41.702,2026-04-18 01:52:41.702,6F106,,False,2026-04-18 01:52:41.702,False,102.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F069,IndiGo,MAA,BLR,2026-04-17 23:44:41.701,2026-04-18 03:17:41.701,6F069,,False,2026-04-18 03:17:41.701,True,213.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F032,IndiGo,DEL,BOM,2026-04-17 23:43:41.701,2026-04-18 02:22:41.701,6F032,,False,2026-04-18 02:22:41.701,True,159.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F108,IndiGo,DEL,HYD,2026-04-17 23:41:41.702,2026-04-18 03:23:41.702,6F108,,False,2026-04-18 03:23:41.702,True,222.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F045,IndiGo,BOM,HYD,2026-04-17 23:04:41.701,2026-04-18 03:38:41.701,6F045,,False,2026-04-18 03:38:41.701,True,274.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F096,IndiGo,MAA,BLR,2026-04-17 22:45:41.702,2026-04-18 02:58:41.702,6F096,,False,2026-04-18 02:58:41.702,True,253.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F205,IndiGo,HYD,BOM,2026-04-17 22:16:41.703,2026-04-18 00:02:41.703,6F205,,False,2026-04-18 00:02:41.703,True,106.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F054,IndiGo,HYD,BLR,2026-04-17 22:00:41.701,2026-04-18 01:25:41.701,6F054,,False,2026-04-18 01:25:41.701,True,205.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F216,IndiGo,BLR,DEL,2026-04-17 21:58:41.704,2026-04-18 02:51:41.704,6F216,,False,2026-04-18 02:51:41.704,True,293.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F186,IndiGo,HYD,BOM,2026-04-17 21:48:41.703,2026-04-18 02:02:41.703,6F186,,False,2026-04-18 02:02:41.703,True,254.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F242,IndiGo,BLR,MAA,2026-04-17 21:10:41.704,2026-04-18 01:04:41.704,6F242,,False,2026-04-18 01:04:41.704,True,234.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F268,Unknown,DEL,MAA,2026-04-17 20:29:41.701,2026-04-17 21:58:41.701,6F268,,False,2026-04-17 21:58:41.701,False,89.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F082,IndiGo,BOM,BLR,2026-04-17 20:26:41.702,2026-04-17 22:26:41.702,6F082,,False,2026-04-17 22:26:41.702,False,120.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F147,IndiGo,HYD,MAA,2026-04-17 19:57:41.703,2026-04-18 00:31:41.703,6F147,,False,2026-04-18 00:31:41.703,True,274.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F080,IndiGo,HYD,MAA,2026-04-17 19:47:41.702,2026-04-17 23:13:41.702,6F080,,False,2026-04-17 23:13:41.702,False,206.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F241,IndiGo,DEL,HYD,2026-04-17 18:27:41.704,2026-04-17 19:02:41.704,6F241,,False,2026-04-17 19:02:41.704,False,35.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F183,IndiGo,MAA,HYD,2026-04-17 17:08:41.703,2026-04-17 19:52:41.703,6F183,,False,2026-04-17 19:52:41.703,False,164.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F089,IndiGo,DEL,HYD,2026-04-17 17:06:41.702,2026-04-17 19:10:41.702,6F089,,False,2026-04-17 19:10:41.702,False,124.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F207,IndiGo,BOM,HYD,2026-04-17 16:59:41.703,2026-04-17 21:00:41.703,6F207,,False,2026-04-17 21:00:41.703,False,241.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F223,IndiGo,MAA,BLR,2026-04-17 16:47:41.704,2026-04-17 17:21:41.704,6F223,,False,2026-04-17 17:21:41.704,False,34.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F116,IndiGo,MAA,CCU,2026-04-17 16:43:41.702,2026-04-17 19:02:41.702,6F116,,False,2026-04-17 19:02:41.702,False,139.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F093,IndiGo,CCU,DEL,2026-04-17 16:09:41.702,2026-04-17 20:00:41.702,6F093,,False,2026-04-17 20:00:41.702,False,231.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F040,IndiGo,HYD,CCU,2026-04-17 15:52:41.701,2026-04-17 20:33:41.701,6F040,,False,2026-04-17 20:33:41.701,False,281.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F239,IndiGo,CCU,BOM,2026-04-17 15:24:41.704,2026-04-17 17:37:41.704,6F239,,False,2026-04-17 17:37:41.704,False,133.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F218,IndiGo,BLR,BOM,2026-04-17 15:16:41.704,2026-04-17 19:03:41.704,6F218,,False,2026-04-17 19:03:41.704,False,227.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F011,IndiGo,MAA,BLR,2026-04-17 15:16:41.701,2026-04-17 17:16:42.000,6F011,,False,2026-04-17 17:16:42.000,False,120.00498333333333,False,,,,
-flights,invalid flight ID or duration anomaly,6F090,IndiGo,HYD,BLR,2026-04-17 15:10:41.702,2026-04-17 19:22:41.702,6F090,,False,2026-04-17 19:22:41.702,False,252.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F200,IndiGo,HYD,DEL,2026-04-17 14:54:41.703,2026-04-17 19:41:41.703,6F200,,False,2026-04-17 19:41:41.703,False,287.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F162,IndiGo,CCU,BOM,2026-04-17 14:50:41.703,2026-04-17 17:44:41.703,6F162,,False,2026-04-17 17:44:41.703,False,174.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F002,IndiGo,BLR,MAA,2026-04-17 14:11:41.700,2026-04-17 17:34:41.700,6F002,,False,2026-04-17 17:34:41.700,False,203.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F258,Unknown,BOM,DEL,2026-04-17 13:54:41.703,2026-04-17 16:49:41.703,6F258,,False,2026-04-17 16:49:41.703,False,175.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F044,IndiGo,DEL,HYD,2026-04-17 13:25:41.701,2026-04-17 17:36:41.701,6F044,,False,2026-04-17 17:36:41.701,False,251.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F248,IndiGo,DEL,HYD,2026-04-17 13:25:41.701,2026-04-17 17:36:41.701,6F248,,False,2026-04-17 17:36:41.701,False,251.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F204,IndiGo,DEL,CCU,2026-04-17 13:23:41.703,2026-04-17 16:04:41.703,6F204,,False,2026-04-17 16:04:41.703,False,161.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F215,IndiGo,DEL,BLR,2026-04-17 13:00:41.703,2026-04-17 17:30:41.703,6F215,,False,2026-04-17 17:30:41.703,False,270.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F198,IndiGo,HYD,BLR,2026-04-17 12:40:41.703,2026-04-17 17:39:41.703,6F198,,False,2026-04-17 17:39:41.703,False,299.0,False,,,,
-flights,invalid flight ID or duration anomaly,6F057,IndiGo,MAA,DEL,2026-04-17 12:32:41.701,2026-04-17 15:50:41.701,6F057,,False,2026-04-17 15:50:41.701,False,198.0,False,,,,
-bookings,invalid status or missing booking reference,UK094,,,,,,,,,,,,,B1015,2025-10-21 11:37:36.951,,False
-bookings,invalid status or missing booking reference,UK026,,,,,,,,,,,,,B1033,2025-05-06 11:37:36.951,,False
-bookings,invalid status or missing booking reference,SJ214,,,,,,,,,,,,,B1045,2026-03-19 11:37:36.951,,False
-bookings,invalid status or missing booking reference,SJ153,,,,,,,,,,,,,B1049,2025-07-28 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,6F017,,,,,,,,,,,,,B1097,2025-08-26 11:37:36.951,,False
-bookings,invalid status or missing booking reference,6F245,,,,,,,,,,,,,B1098,2025-10-15 11:37:36.951,,False
-bookings,invalid status or missing booking reference,SJ196,,,,,,,,,,,,,B1102,2025-10-06 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,AI146,,,,,,,,,,,,,B1162,2025-04-22 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,SJ022,,,,,,,,,,,,,B1198,2025-06-16 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,SJ052,,,,,,,,,,,,,B1208,2025-07-22 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,UK194,,,,,,,,,,,,,B1214,2025-08-14 11:37:36.951,,False
-bookings,invalid status or missing booking reference,6F056,,,,,,,,,,,,,B1223,2026-04-09 11:37:36.951,,False
-bookings,invalid status or missing booking reference,AI047,,,,,,,,,,,,,B1237,2025-11-16 11:37:36.951,,False
-bookings,invalid status or missing booking reference,SJ186,,,,,,,,,,,,,B1238,2025-10-20 11:37:36.951,,False
-bookings,invalid status or missing booking reference,6F201,,,,,,,,,,,,,B1245,2026-04-17 11:37:36.951,,False
-bookings,invalid status or missing booking reference,AI102,,,,,,,,,,,,,B1268,2026-01-16 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,SJ017,,,,,,,,,,,,,B1270,2025-06-02 11:37:36.951,,False
-bookings,invalid status or missing booking reference,AI150,,,,,,,,,,,,,B1273,2025-06-05 11:37:36.951,,False
-bookings,invalid status or missing booking reference,6F019,,,,,,,,,,,,,B1279,2025-05-10 11:37:36.951,,False
-bookings,invalid status or missing booking reference,AI103,,,,,,,,,,,,,B1283,2025-05-08 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,6F010,,,,,,,,,,,,,B1286,2025-09-25 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,6F022,,,,,,,,,,,,,B1304,2025-12-13 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,AI015,,,,,,,,,,,,,B1312,2026-03-29 11:37:36.951,,False
-bookings,invalid status or missing booking reference,6F246,,,,,,,,,,,,,B1337,2025-10-20 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,6F065,,,,,,,,,,,,,B1357,2026-02-05 11:37:36.951,,False
-bookings,invalid status or missing booking reference,AI105,,,,,,,,,,,,,B1360,2025-06-15 11:37:36.951,,False
-bookings,invalid status or missing booking reference,6F038,,,,,,,,,,,,,B1388,2025-09-23 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,6F085,,,,,,,,,,,,,B1389,2026-02-22 11:37:36.951,,False
-bookings,invalid status or missing booking reference,UK023,,,,,,,,,,,,,B1395,2026-02-10 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,AI039,,,,,,,,,,,,,B1396,2025-08-03 11:37:36.951,,False
-bookings,invalid status or missing booking reference,UK155,,,,,,,,,,,,,B1401,2025-04-20 11:37:36.951,,False
-bookings,invalid status or missing booking reference,6F253,,,,,,,,,,,,,B1404,2026-03-07 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,SJ038,,,,,,,,,,,,,B1413,2025-10-05 11:37:36.951,,False
-bookings,invalid status or missing booking reference,UK058,,,,,,,,,,,,,B1421,2025-10-03 11:37:36.951,,False
-bookings,invalid status or missing booking reference,AI073,,,,,,,,,,,,,B1438,2026-04-01 11:37:36.951,,False
-bookings,invalid status or missing booking reference,SJ131,,,,,,,,,,,,,B1441,2025-09-22 11:37:36.951,INVALID,False
-bookings,invalid status or missing booking reference,SJ119,,,,,,,,,,,,,B1483,2025-06-09 11:37:36.951,,False
-bookings,invalid status or missing booking reference,AI033,,,,,,,,,,,,,B1499,2025-06-17 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,AI023,,,,,,,,,,,,,B1508,2025-07-31 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F221,,,,,,,,,,,,,B1517,2026-01-16 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,SJ147,,,,,,,,,,,,,B1518,2026-03-20 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,AI254,,,,,,,,,,,,,B1525,2025-05-29 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F066,,,,,,,,,,,,,B1529,2025-04-30 11:37:36.952,,False
-bookings,invalid status or missing booking reference,UK095,,,,,,,,,,,,,B1530,2025-12-08 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,AI002,,,,,,,,,,,,,B1536,2025-06-01 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F104,,,,,,,,,,,,,B1551,2025-11-14 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,SJ032,,,,,,,,,,,,,B1576,2025-10-20 11:37:36.952,,False
-bookings,invalid status or missing booking reference,SJ072,,,,,,,,,,,,,B1583,2026-02-22 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F087,,,,,,,,,,,,,B1593,2025-09-24 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F042,,,,,,,,,,,,,B1602,2025-07-07 11:37:36.952,,False
-bookings,invalid status or missing booking reference,AI101,,,,,,,,,,,,,B1607,2026-02-02 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,AI116,,,,,,,,,,,,,B1614,2025-05-11 11:37:36.952,,False
-bookings,invalid status or missing booking reference,AI070,,,,,,,,,,,,,B1617,2025-05-10 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,AI136,,,,,,,,,,,,,B1635,2025-08-14 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,UK122,,,,,,,,,,,,,B1641,2026-03-27 11:37:36.952,,False
-bookings,invalid status or missing booking reference,SJ105,,,,,,,,,,,,,B1650,2026-04-03 11:37:36.952,,False
-bookings,invalid status or missing booking reference,AI131,,,,,,,,,,,,,B1654,2025-08-14 11:37:36.952,,False
-bookings,invalid status or missing booking reference,AI147,,,,,,,,,,,,,B1673,2025-06-12 11:37:36.952,,False
-bookings,invalid status or missing booking reference,AI253,,,,,,,,,,,,,B1680,2026-03-19 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F167,,,,,,,,,,,,,B1711,2026-01-29 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F137,,,,,,,,,,,,,B1743,2025-11-21 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,SJ111,,,,,,,,,,,,,B1769,2025-11-23 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,6F109,,,,,,,,,,,,,B1772,2025-08-29 11:37:36.952,,False
-bookings,invalid status or missing booking reference,AI111,,,,,,,,,,,,,B1802,2025-06-30 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,AI104,,,,,,,,,,,,,B1813,2025-04-21 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,SJ129,,,,,,,,,,,,,B1849,2025-06-24 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,6F008,,,,,,,,,,,,,B1858,2025-11-25 11:37:36.952,,False
-bookings,invalid status or missing booking reference,UK043,,,,,,,,,,,,,B1860,2025-08-01 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F130,,,,,,,,,,,,,B1886,2026-02-12 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,UK180,,,,,,,,,,,,,B1917,2025-08-03 11:37:36.952,INVALID,False
-bookings,invalid status or missing booking reference,UK148,,,,,,,,,,,,,B1975,2025-08-26 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F162,,,,,,,,,,,,,B1982,2025-06-17 11:37:36.952,,False
-bookings,invalid status or missing booking reference,UK101,,,,,,,,,,,,,B1983,2025-06-28 11:37:36.952,,False
-bookings,invalid status or missing booking reference,6F002,,,,,,,,,,,,,B1989,2025-12-10 11:37:36.952,,False
-bookings,invalid status or missing booking reference,UK124,,,,,,,,,,,,,B1999,2025-08-08 11:37:36.952,INVALID,False
+dataset,quarantine_reason,flight_id,airline,source,destination,departure_time,arrival_time,flight_id_raw,duration_raw,flight_id_valid_flag,arrival_time_adjusted,overnight_flag,duration_minutes,duration_anomaly_flag,booking_id,passenger_key_hash,booking_date,status,seat_number,status_valid_flag
+flights,invalid flight ID or duration anomaly,6F196,IndiGo,CCU,MAA,2026-04-20 23:04:41.703,2026-04-21 00:47:41.703,6F196,,False,2026-04-21 00:47:41.703,True,103.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F025,IndiGo,BLR,BOM,2026-04-20 23:02:41.701,2026-04-20 23:57:41.701,6F025,,False,2026-04-20 23:57:41.701,False,55.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F251,Unknown,DEL,BLR,2026-04-20 22:56:41.703,2026-04-20 23:37:41.703,6F251,,False,2026-04-20 23:37:41.703,False,41.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F026,IndiGo,BOM,CCU,2026-04-20 22:46:42.000,2026-04-21 03:13:42.000,6F026,,False,2026-04-21 03:13:42.000,True,267.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F099,IndiGo,MAA,DEL,2026-04-20 22:24:41.702,2026-04-20 22:59:41.702,6F099,,False,2026-04-20 22:59:41.702,False,35.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F164,IndiGo,BLR,BOM,2026-04-20 22:18:41.703,2026-04-21 00:45:41.703,6F164,,False,2026-04-21 00:45:41.703,True,147.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F195,IndiGo,CCU,DEL,2026-04-20 21:44:41.703,2026-04-20 22:39:41.703,6F195,,False,2026-04-20 22:39:41.703,False,55.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F174,IndiGo,DEL,HYD,2026-04-20 21:36:41.703,2026-04-20 22:16:41.703,6F174,,False,2026-04-20 22:16:41.703,False,40.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F213,IndiGo,BLR,BOM,2026-04-20 21:05:41.703,2026-04-21 00:32:41.703,6F213,,False,2026-04-21 00:32:41.703,True,207.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F236,IndiGo,BOM,DEL,2026-04-20 20:35:41.704,2026-04-20 23:54:41.704,6F236,,False,2026-04-20 23:54:41.704,False,199.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F086,IndiGo,MAA,HYD,2026-04-20 20:23:41.702,2026-04-20 21:00:41.702,6F086,,False,2026-04-20 21:00:41.702,False,37.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F114,IndiGo,BOM,MAA,2026-04-20 20:10:41.702,2026-04-20 21:00:41.702,6F114,,False,2026-04-20 21:00:41.702,False,50.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F190,IndiGo,DEL,MAA,2026-04-20 20:02:41.703,2026-04-21 00:36:41.703,6F190,,False,2026-04-21 00:36:41.703,True,274.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F028,IndiGo,HYD,CCU,2026-04-20 19:49:41.701,2026-04-20 21:49:41.701,6F028,,False,2026-04-20 21:49:41.701,False,120.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F151,IndiGo,CCU,HYD,2026-04-20 19:44:41.703,2026-04-20 22:04:41.703,6F151,,False,2026-04-20 22:04:41.703,False,140.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F270,Unknown,HYD,MAA,2026-04-20 18:14:41.701,2026-04-20 19:02:41.701,6F270,,False,2026-04-20 19:02:41.701,False,48.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F012,IndiGo,CCU,HYD,2026-04-20 18:06:41.701,2026-04-20 21:31:41.701,6F012,,False,2026-04-20 21:31:41.701,False,205.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F149,IndiGo,BLR,CCU,2026-04-20 17:57:41.703,2026-04-20 20:42:41.703,6F149,,False,2026-04-20 20:42:41.703,False,165.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F043,IndiGo,BOM,HYD,2026-04-20 17:17:41.701,2026-04-20 18:43:41.701,6F043,,False,2026-04-20 18:43:41.701,False,86.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F194,IndiGo,BOM,CCU,2026-04-20 16:29:41.703,2026-04-20 18:27:41.703,6F194,,False,2026-04-20 18:27:41.703,False,118.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F097,IndiGo,BLR,BOM,2026-04-20 15:32:41.702,2026-04-20 16:49:41.702,6F097,,False,2026-04-20 16:49:41.702,False,77.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F123,IndiGo,DEL,HYD,2026-04-20 15:26:41.702,2026-04-20 17:12:41.702,6F123,,False,2026-04-20 17:12:41.702,False,106.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F017,IndiGo,CCU,BOM,2026-04-20 15:25:41.701,2026-04-20 18:06:41.701,6F017,,False,2026-04-20 18:06:41.701,False,161.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F245,IndiGo,CCU,BOM,2026-04-20 15:25:41.701,2026-04-20 18:06:41.701,6F245,,False,2026-04-20 18:06:41.701,False,161.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F180,IndiGo,MAA,BLR,2026-04-20 15:24:41.703,2026-04-20 19:48:41.703,6F180,,False,2026-04-20 19:48:41.703,False,264.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F152,IndiGo,CCU,DEL,2026-04-20 15:21:41.703,2026-04-20 17:25:41.703,6F152,,False,2026-04-20 17:25:41.703,False,124.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F188,IndiGo,DEL,HYD,2026-04-20 14:57:41.703,2026-04-20 19:39:41.703,6F188,,False,2026-04-20 19:39:41.703,False,282.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F181,IndiGo,BOM,MAA,2026-04-20 14:55:41.703,2026-04-20 16:43:41.703,6F181,,False,2026-04-20 16:43:41.703,False,108.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F077,IndiGo,CCU,DEL,2026-04-20 14:55:41.702,2026-04-20 19:13:41.702,6F077,,False,2026-04-20 19:13:41.702,False,258.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F191,IndiGo,BLR,DEL,2026-04-20 14:41:41.703,2026-04-20 15:11:41.703,6F191,,False,2026-04-20 15:11:41.703,False,30.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F261,Unknown,CCU,DEL,2026-04-20 14:31:41.703,2026-04-20 17:29:41.703,6F261,,False,2026-04-20 17:29:41.703,False,178.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F129,IndiGo,DEL,CCU,2026-04-20 14:28:41.702,2026-04-20 16:47:41.702,6F129,,False,2026-04-20 16:47:41.702,False,139.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F254,Unknown,MAA,BLR,2026-04-20 14:26:41.703,2026-04-20 18:01:41.703,6F254,,False,2026-04-20 18:01:41.703,False,215.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F030,IndiGo,BOM,DEL,2026-04-20 14:20:41.701,2026-04-20 17:10:41.701,6F030,,False,2026-04-20 17:10:41.701,False,170.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F259,Unknown,BOM,DEL,2026-04-20 14:10:41.703,2026-04-20 15:21:41.703,6F259,,False,2026-04-20 15:21:41.703,False,71.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F051,IndiGo,BLR,BOM,2026-04-20 13:58:41.701,2026-04-20 15:58:41.701,6F051,,False,2026-04-20 15:58:41.701,False,120.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F146,IndiGo,HYD,MAA,2026-04-20 13:51:41.703,2026-04-20 15:07:41.703,6F146,,False,2026-04-20 15:07:41.703,False,76.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F047,IndiGo,MAA,DEL,2026-04-20 13:50:41.701,2026-04-20 15:55:41.701,6F047,,False,2026-04-20 15:55:41.701,False,125.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F229,IndiGo,MAA,DEL,2026-04-20 13:10:41.704,2026-04-20 14:30:41.704,6F229,,False,2026-04-20 14:30:41.704,False,80.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F184,IndiGo,MAA,BOM,2026-04-20 13:05:41.703,2026-04-20 16:04:41.703,6F184,,False,2026-04-20 16:04:41.703,False,179.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F168,IndiGo,HYD,DEL,2026-04-20 12:18:41.703,2026-04-20 15:58:41.703,6F168,,False,2026-04-20 15:58:41.703,False,220.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F255,Unknown,DEL,BOM,2026-04-20 11:59:41.703,2026-04-20 15:33:41.703,6F255,,False,2026-04-20 15:33:41.703,False,214.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F158,IndiGo,CCU,MAA,2026-04-20 11:58:41.703,2026-04-20 16:04:41.703,6F158,,False,2026-04-20 16:04:41.703,False,246.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F034,IndiGo,BOM,DEL,2026-04-20 11:53:41.701,2026-04-20 12:49:41.701,6F034,,False,2026-04-20 12:49:41.701,False,56.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F105,IndiGo,BLR,BOM,2026-04-20 11:46:41.702,2026-04-20 12:58:41.702,6F105,,False,2026-04-20 12:58:41.702,False,72.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F073,IndiGo,DEL,CCU,2026-04-20 11:38:41.702,2026-04-20 15:18:41.702,6F073,,False,2026-04-20 15:18:41.702,False,220.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F234,IndiGo,BOM,DEL,2026-04-20 11:20:41.704,2026-04-20 14:11:41.704,6F234,,False,2026-04-20 14:11:41.704,False,171.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F068,IndiGo,BLR,HYD,2026-04-20 11:17:41.701,2026-04-20 15:06:41.701,6F068,,False,2026-04-20 15:06:41.701,False,229.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F074,IndiGo,HYD,BOM,2026-04-20 11:09:41.702,2026-04-20 14:29:41.702,6F074,,False,2026-04-20 14:29:41.702,False,200.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F018,IndiGo,DEL,BLR,2026-04-20 10:57:41.701,2026-04-20 11:43:41.701,6F018,,False,2026-04-20 11:43:41.701,False,46.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F232,IndiGo,MAA,BLR,2026-04-20 10:39:41.704,2026-04-20 12:22:41.704,6F232,,False,2026-04-20 12:22:41.704,False,103.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F084,IndiGo,CCU,HYD,2026-04-20 10:34:41.702,2026-04-20 11:34:42.000,6F084,,False,2026-04-20 11:34:42.000,False,60.00496666666666,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F091,IndiGo,BLR,CCU,2026-04-20 10:10:41.702,2026-04-20 11:36:41.702,6F091,,False,2026-04-20 11:36:41.702,False,86.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F049,IndiGo,HYD,DEL,2026-04-20 10:00:41.701,2026-04-20 13:13:41.701,6F049,,False,2026-04-20 13:13:41.701,False,193.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F209,IndiGo,MAA,CCU,2026-04-20 08:40:41.703,2026-04-20 13:40:41.703,6F209,,False,2026-04-20 13:40:41.703,False,300.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F092,IndiGo,MAA,BLR,2026-04-20 08:39:41.702,2026-04-20 09:15:41.702,6F092,,False,2026-04-20 09:15:41.702,False,36.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F238,IndiGo,BOM,DEL,2026-04-20 08:31:41.704,2026-04-20 09:19:41.704,6F238,,False,2026-04-20 09:19:41.704,False,48.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F126,IndiGo,CCU,MAA,2026-04-20 08:21:41.702,2026-04-20 09:39:41.702,6F126,,False,2026-04-20 09:39:41.702,False,78.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F029,IndiGo,BOM,BLR,2026-04-20 07:31:41.701,2026-04-20 11:45:41.701,6F029,,False,2026-04-20 11:45:41.701,False,254.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F056,IndiGo,BOM,MAA,2026-04-20 07:00:41.701,2026-04-20 08:49:41.701,6F056,,False,2026-04-20 08:49:41.701,False,109.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F083,IndiGo,BLR,DEL,2026-04-20 05:24:41.702,2026-04-20 06:03:41.702,6F083,,False,2026-04-20 06:03:41.702,False,39.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F178,IndiGo,BOM,CCU,2026-04-20 04:48:41.703,2026-04-20 09:11:41.703,6F178,,False,2026-04-20 09:11:41.703,False,263.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F133,IndiGo,MAA,BLR,2026-04-20 04:38:41.702,2026-04-20 06:25:41.702,6F133,,False,2026-04-20 06:25:41.702,False,107.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F230,IndiGo,CCU,BLR,2026-04-20 03:34:41.704,2026-04-20 06:47:41.704,6F230,,False,2026-04-20 06:47:41.704,False,193.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F169,IndiGo,BOM,DEL,2026-04-20 03:27:41.703,2026-04-20 08:06:41.703,6F169,,False,2026-04-20 08:06:41.703,False,279.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F250,Unknown,DEL,BLR,2026-04-20 03:26:41.701,2026-04-20 07:30:41.701,6F250,,False,2026-04-20 07:30:41.701,False,244.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F187,IndiGo,BOM,MAA,2026-04-20 03:19:41.703,2026-04-20 07:37:41.703,6F187,,False,2026-04-20 07:37:41.703,False,258.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F179,IndiGo,HYD,MAA,2026-04-20 02:25:41.703,2026-04-20 06:40:41.703,6F179,,False,2026-04-20 06:40:41.703,False,255.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F156,IndiGo,MAA,BOM,2026-04-20 02:23:41.703,2026-04-20 04:57:41.703,6F156,,False,2026-04-20 04:57:41.703,False,154.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F250,Unknown,CCU,BLR,2026-04-20 02:23:41.702,2026-04-20 02:56:41.702,6F250,,False,2026-04-20 02:56:41.702,False,33.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F036,IndiGo,CCU,BLR,2026-04-20 02:14:41.701,2026-04-20 06:57:41.701,6F036,,False,2026-04-20 06:57:41.701,False,283.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F201,IndiGo,CCU,BOM,2026-04-20 02:09:41.703,2026-04-20 06:49:41.703,6F201,,False,2026-04-20 06:49:41.703,False,280.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F143,IndiGo,CCU,DEL,2026-04-20 02:09:41.702,2026-04-20 06:08:41.702,6F143,,False,2026-04-20 06:08:41.702,False,239.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F177,IndiGo,HYD,MAA,2026-04-20 02:03:41.703,2026-04-20 04:25:41.703,6F177,,False,2026-04-20 04:25:41.703,False,142.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F031,IndiGo,BOM,BLR,2026-04-20 02:00:41.701,2026-04-20 06:37:41.701,6F031,,False,2026-04-20 06:37:41.701,False,277.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F122,IndiGo,DEL,BLR,2026-04-20 01:44:41.702,2026-04-20 05:28:41.702,6F122,,False,2026-04-20 05:28:41.702,False,224.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F046,IndiGo,DEL,BLR,2026-04-20 01:27:41.701,2026-04-20 05:08:41.701,6F046,,False,2026-04-20 05:08:41.701,False,221.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F058,IndiGo,BOM,CCU,2026-04-20 01:04:41.701,2026-04-20 03:33:41.701,6F058,,False,2026-04-20 03:33:41.701,False,149.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F193,IndiGo,BOM,MAA,2026-04-20 00:34:41.703,2026-04-20 02:32:41.703,6F193,,False,2026-04-20 02:32:41.703,False,118.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F019,IndiGo,BLR,BOM,2026-04-20 00:19:41.701,2026-04-20 04:14:41.701,6F019,,False,2026-04-20 04:14:41.701,False,235.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F166,IndiGo,BOM,CCU,2026-04-20 00:03:41.703,2026-04-20 04:33:41.703,6F166,,False,2026-04-20 04:33:41.703,False,270.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F010,IndiGo,DEL,BLR,2026-04-19 23:53:41.701,2026-04-20 03:44:41.701,6F010,,False,2026-04-20 03:44:41.701,True,231.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F272,Unknown,HYD,MAA,2026-04-19 23:35:41.702,2026-04-20 00:22:41.702,6F272,,False,2026-04-20 00:22:41.702,True,47.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F070,IndiGo,HYD,DEL,2026-04-19 23:23:41.701,2026-04-20 02:24:41.701,6F070,,False,2026-04-20 02:24:41.701,True,181.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F075,IndiGo,BOM,CCU,2026-04-19 22:20:41.702,2026-04-20 03:02:41.702,6F075,,False,2026-04-20 03:02:41.702,True,282.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F078,IndiGo,BOM,CCU,2026-04-19 22:04:41.702,2026-04-19 23:37:41.702,6F078,,False,2026-04-19 23:37:41.702,False,93.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F260,Unknown,CCU,DEL,2026-04-19 21:51:41.702,2026-04-20 01:14:41.702,6F260,,False,2026-04-20 01:14:41.702,True,203.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F022,IndiGo,MAA,BLR,2026-04-19 21:46:41.701,2026-04-20 02:05:41.701,6F022,,False,2026-04-20 02:05:41.701,True,259.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F237,IndiGo,HYD,MAA,2026-04-19 21:41:41.704,2026-04-20 00:44:41.704,6F237,,False,2026-04-20 00:44:41.704,True,183.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F113,IndiGo,BOM,CCU,2026-04-19 21:04:41.702,2026-04-20 01:30:41.702,6F113,,False,2026-04-20 01:30:41.702,True,266.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F112,IndiGo,HYD,DEL,2026-04-19 21:00:41.702,2026-04-19 23:16:41.702,6F112,,False,2026-04-19 23:16:41.702,False,136.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F246,IndiGo,HYD,DEL,2026-04-19 21:00:41.702,2026-04-19 23:16:41.702,6F246,,False,2026-04-19 23:16:41.702,False,136.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F176,IndiGo,CCU,DEL,2026-04-19 20:23:42.000,2026-04-19 23:23:42.000,6F176,,False,2026-04-19 23:23:42.000,False,180.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F148,IndiGo,CCU,BOM,2026-04-19 20:23:41.703,2026-04-19 22:30:41.703,6F148,,False,2026-04-19 22:30:41.703,False,127.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F202,IndiGo,HYD,BLR,2026-04-19 20:18:41.703,2026-04-19 23:48:41.703,6F202,,False,2026-04-19 23:48:41.703,False,210.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F071,IndiGo,DEL,CCU,2026-04-19 20:18:41.702,2026-04-20 00:31:41.702,6F071,,False,2026-04-20 00:31:41.702,True,253.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F003,IndiGo,HYD,BOM,2026-04-19 20:06:41.700,2026-04-19 23:13:41.700,6F003,,False,2026-04-19 23:13:41.700,False,187.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F249,IndiGo,HYD,BOM,2026-04-19 20:06:41.700,2026-04-19 23:13:41.700,6F249,,False,2026-04-19 23:13:41.700,False,187.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F118,IndiGo,CCU,HYD,2026-04-19 19:52:41.702,2026-04-19 21:01:41.702,6F118,,False,2026-04-19 21:01:41.702,False,69.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F014,IndiGo,DEL,MAA,2026-04-19 19:42:41.701,2026-04-19 23:15:41.701,6F014,,False,2026-04-19 23:15:41.701,False,213.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F065,IndiGo,MAA,BLR,2026-04-19 19:40:41.701,2026-04-19 22:23:41.701,6F065,,False,2026-04-19 22:23:41.701,False,163.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F271,Unknown,HYD,MAA,2026-04-19 19:33:41.702,2026-04-19 22:52:41.702,6F271,,False,2026-04-19 22:52:41.702,False,199.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F007,IndiGo,HYD,MAA,2026-04-19 18:55:41.701,2026-04-19 19:54:41.701,6F007,,False,2026-04-19 19:54:41.701,False,59.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F256,Unknown,BOM,CCU,2026-04-19 18:40:41.702,2026-04-19 19:13:41.702,6F256,,False,2026-04-19 19:13:41.702,False,33.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F127,IndiGo,HYD,BOM,2026-04-19 18:27:41.702,2026-04-19 22:28:41.702,6F127,,False,2026-04-19 22:28:41.702,False,241.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F085,IndiGo,HYD,MAA,2026-04-19 17:32:41.702,2026-04-19 19:32:42.000,6F085,,False,2026-04-19 19:32:42.000,False,120.00496666666666,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F125,IndiGo,BOM,CCU,2026-04-19 17:09:41.702,2026-04-19 21:13:41.702,6F125,,False,2026-04-19 21:13:41.702,False,244.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F128,IndiGo,HYD,DEL,2026-04-19 16:56:41.702,2026-04-19 18:03:41.702,6F128,,False,2026-04-19 18:03:41.702,False,67.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F224,IndiGo,DEL,MAA,2026-04-19 16:53:41.704,2026-04-19 18:52:41.704,6F224,,False,2026-04-19 18:52:41.704,False,119.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F206,IndiGo,DEL,BOM,2026-04-19 16:39:41.703,2026-04-19 20:59:41.703,6F206,,False,2026-04-19 20:59:41.703,False,260.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F140,IndiGo,CCU,HYD,2026-04-19 16:30:41.702,2026-04-19 18:21:41.702,6F140,,False,2026-04-19 18:21:41.702,False,111.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F253,Unknown,MAA,BLR,2026-04-19 16:26:41.703,2026-04-19 18:24:41.703,6F253,,False,2026-04-19 18:24:41.703,False,118.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F038,IndiGo,HYD,MAA,2026-04-19 15:36:41.701,2026-04-19 19:33:41.701,6F038,,False,2026-04-19 19:33:41.701,False,237.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F199,IndiGo,DEL,MAA,2026-04-19 15:15:41.703,2026-04-19 17:32:41.703,6F199,,False,2026-04-19 17:32:41.703,False,137.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F020,IndiGo,BOM,HYD,2026-04-19 14:58:41.701,2026-04-19 16:43:41.701,6F020,,False,2026-04-19 16:43:41.701,False,105.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F041,IndiGo,MAA,BOM,2026-04-19 13:19:41.701,2026-04-19 16:48:41.701,6F041,,False,2026-04-19 16:48:41.701,False,209.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F175,IndiGo,MAA,CCU,2026-04-19 13:18:41.703,2026-04-19 15:13:41.703,6F175,,False,2026-04-19 15:13:41.703,False,115.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F013,IndiGo,BOM,CCU,2026-04-19 13:15:41.701,2026-04-19 18:05:41.701,6F013,,False,2026-04-19 18:05:41.701,False,290.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F135,IndiGo,MAA,HYD,2026-04-19 12:59:41.702,2026-04-19 13:45:41.702,6F135,,False,2026-04-19 13:45:41.702,False,46.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F150,IndiGo,HYD,MAA,2026-04-19 12:55:41.703,2026-04-19 16:53:41.703,6F150,,False,2026-04-19 16:53:41.703,False,238.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F134,IndiGo,BLR,MAA,2026-04-19 12:47:41.702,2026-04-19 14:06:41.702,6F134,,False,2026-04-19 14:06:41.702,False,79.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F132,IndiGo,MAA,BOM,2026-04-19 12:00:41.702,2026-04-19 13:00:42.000,6F132,,False,2026-04-19 13:00:42.000,False,60.00496666666666,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F001,IndiGo,HYD,BOM,2026-04-19 11:33:41.700,2026-04-19 13:08:41.700,6F001,,False,2026-04-19 13:08:41.700,False,95.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F211,IndiGo,MAA,BLR,2026-04-19 11:29:41.703,2026-04-19 16:20:41.703,6F211,,False,2026-04-19 16:20:41.703,False,291.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F235,IndiGo,HYD,MAA,2026-04-19 11:06:41.704,2026-04-19 13:51:41.704,6F235,,False,2026-04-19 13:51:41.704,False,165.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F005,IndiGo,BOM,MAA,2026-04-19 11:04:41.701,2026-04-19 15:27:41.701,6F005,,False,2026-04-19 15:27:41.701,False,263.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F219,IndiGo,MAA,DEL,2026-04-19 10:32:41.704,2026-04-19 14:37:41.704,6F219,,False,2026-04-19 14:37:41.704,False,245.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F220,IndiGo,HYD,BOM,2026-04-19 10:27:41.704,2026-04-19 11:25:41.704,6F220,,False,2026-04-19 11:25:41.704,False,58.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F098,IndiGo,BLR,MAA,2026-04-19 10:18:41.702,2026-04-19 12:49:41.702,6F098,,False,2026-04-19 12:49:41.702,False,151.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F172,IndiGo,BOM,BLR,2026-04-19 09:53:41.703,2026-04-19 14:46:41.703,6F172,,False,2026-04-19 14:46:41.703,False,293.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F243,IndiGo,BOM,HYD,2026-04-19 09:37:41.704,2026-04-19 10:33:41.704,6F243,,False,2026-04-19 10:33:41.704,False,56.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F052,IndiGo,BOM,CCU,2026-04-19 09:13:41.701,2026-04-19 12:02:41.701,6F052,,False,2026-04-19 12:02:41.701,False,169.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F094,IndiGo,BLR,BOM,2026-04-19 07:37:41.702,2026-04-19 09:06:41.702,6F094,,False,2026-04-19 09:06:41.702,False,89.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F024,IndiGo,BOM,DEL,2026-04-19 07:31:41.701,2026-04-19 11:17:41.701,6F024,,False,2026-04-19 11:17:41.701,False,226.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F061,IndiGo,MAA,BOM,2026-04-19 07:28:41.701,2026-04-19 08:09:41.701,6F061,,False,2026-04-19 08:09:41.701,False,41.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F263,Unknown,DEL,HYD,2026-04-19 07:07:41.703,2026-04-19 08:30:41.703,6F263,,False,2026-04-19 08:30:41.703,False,83.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F163,IndiGo,MAA,BOM,2026-04-19 06:49:41.703,2026-04-19 10:46:41.703,6F163,,False,2026-04-19 10:46:41.703,False,237.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F212,IndiGo,BLR,CCU,2026-04-19 06:10:41.703,2026-04-19 10:52:41.703,6F212,,False,2026-04-19 10:52:41.703,False,282.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F066,IndiGo,BLR,HYD,2026-04-19 06:07:41.701,2026-04-19 07:43:41.701,6F066,,False,2026-04-19 07:43:41.701,False,96.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F104,IndiGo,CCU,BOM,2026-04-19 05:39:41.702,2026-04-19 06:14:41.702,6F104,,False,2026-04-19 06:14:41.702,False,35.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F221,IndiGo,MAA,DEL,2026-04-19 05:20:41.704,2026-04-19 08:52:41.704,6F221,,False,2026-04-19 08:52:41.704,False,212.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F063,IndiGo,DEL,HYD,2026-04-19 04:42:41.701,2026-04-19 07:31:41.701,6F063,,False,2026-04-19 07:31:41.701,False,169.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F115,IndiGo,MAA,BLR,2026-04-19 04:41:41.702,2026-04-19 06:23:41.702,6F115,,False,2026-04-19 06:23:41.702,False,102.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F067,IndiGo,MAA,BLR,2026-04-19 02:59:41.701,2026-04-19 06:02:41.701,6F067,,False,2026-04-19 06:02:41.701,False,183.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F170,IndiGo,HYD,DEL,2026-04-19 02:44:41.703,2026-04-19 04:14:41.703,6F170,,False,2026-04-19 04:14:41.703,False,90.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F079,IndiGo,MAA,HYD,2026-04-19 02:14:41.702,2026-04-19 06:18:41.702,6F079,,False,2026-04-19 06:18:41.702,False,244.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F182,IndiGo,BOM,CCU,2026-04-19 02:10:41.703,2026-04-19 04:18:41.703,6F182,,False,2026-04-19 04:18:41.703,False,128.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F142,IndiGo,CCU,MAA,2026-04-19 02:05:41.702,2026-04-19 06:04:41.702,6F142,,False,2026-04-19 06:04:41.702,False,239.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F262,Unknown,MAA,DEL,2026-04-19 01:44:41.702,2026-04-19 02:47:41.702,6F262,,False,2026-04-19 02:47:41.702,False,63.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F269,Unknown,HYD,MAA,2026-04-19 01:30:41.702,2026-04-19 02:52:41.702,6F269,,False,2026-04-19 02:52:41.702,False,82.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F214,IndiGo,BOM,CCU,2026-04-19 01:21:41.703,2026-04-19 05:20:41.703,6F214,,False,2026-04-19 05:20:41.703,False,239.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F059,IndiGo,BOM,DEL,2026-04-19 01:12:41.701,2026-04-19 06:02:41.701,6F059,,False,2026-04-19 06:02:41.701,False,290.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F145,IndiGo,CCU,DEL,2026-04-19 01:02:41.703,2026-04-19 02:18:41.703,6F145,,False,2026-04-19 02:18:41.703,False,76.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F117,IndiGo,CCU,DEL,2026-04-19 00:46:41.702,2026-04-19 01:51:41.702,6F117,,False,2026-04-19 01:51:41.702,False,65.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F226,IndiGo,DEL,BOM,2026-04-19 00:38:41.704,2026-04-19 02:55:41.704,6F226,,False,2026-04-19 02:55:41.704,False,137.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F050,IndiGo,DEL,BOM,2026-04-19 00:35:41.701,2026-04-19 04:32:41.701,6F050,,False,2026-04-19 04:32:41.701,False,237.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F233,IndiGo,BLR,BOM,2026-04-18 23:56:41.704,2026-04-19 03:53:41.704,6F233,,False,2026-04-19 03:53:41.704,True,237.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F015,IndiGo,BOM,CCU,2026-04-18 23:39:41.701,2026-04-19 02:27:41.701,6F015,,False,2026-04-19 02:27:41.701,True,168.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F087,IndiGo,DEL,HYD,2026-04-18 23:24:41.702,2026-04-19 03:10:41.702,6F087,,False,2026-04-19 03:10:41.702,True,226.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F042,IndiGo,HYD,DEL,2026-04-18 22:35:41.701,2026-04-19 02:41:41.701,6F042,,False,2026-04-19 02:41:41.701,True,246.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F016,IndiGo,HYD,BOM,2026-04-18 22:18:41.701,2026-04-18 22:54:41.701,6F016,,False,2026-04-18 22:54:41.701,False,36.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F064,IndiGo,CCU,DEL,2026-04-18 21:45:41.701,2026-04-18 22:50:41.701,6F064,,False,2026-04-18 22:50:41.701,False,65.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F021,IndiGo,BLR,MAA,2026-04-18 21:23:41.701,2026-04-19 01:25:41.701,6F021,,False,2026-04-19 01:25:41.701,True,242.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F141,IndiGo,BOM,CCU,2026-04-18 20:26:41.702,2026-04-18 22:28:41.702,6F141,,False,2026-04-18 22:28:41.702,False,122.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F053,IndiGo,DEL,HYD,2026-04-18 20:26:41.701,2026-04-19 00:39:41.701,6F053,,False,2026-04-19 00:39:41.701,True,253.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F136,IndiGo,CCU,DEL,2026-04-18 20:24:41.702,2026-04-18 21:01:41.702,6F136,,False,2026-04-18 21:01:41.702,False,37.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F009,IndiGo,BLR,CCU,2026-04-18 20:21:41.701,2026-04-18 23:36:41.701,6F009,,False,2026-04-18 23:36:41.701,False,195.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F023,IndiGo,MAA,BLR,2026-04-18 20:18:41.701,2026-04-19 00:14:41.701,6F023,,False,2026-04-19 00:14:41.701,True,236.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F189,IndiGo,MAA,BLR,2026-04-18 20:08:41.703,2026-04-18 21:51:41.703,6F189,,False,2026-04-18 21:51:41.703,False,103.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F004,IndiGo,BOM,CCU,2026-04-18 19:53:41.701,2026-04-18 23:33:41.701,6F004,,False,2026-04-18 23:33:41.701,False,220.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F035,IndiGo,CCU,HYD,2026-04-18 19:16:41.701,2026-04-18 23:40:41.701,6F035,,False,2026-04-18 23:40:41.701,False,264.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F197,IndiGo,BOM,BLR,2026-04-18 17:59:41.703,2026-04-18 22:44:41.703,6F197,,False,2026-04-18 22:44:41.703,False,285.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F111,IndiGo,HYD,DEL,2026-04-18 17:09:41.702,2026-04-18 20:02:41.702,6F111,,False,2026-04-18 20:02:41.702,False,173.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F171,IndiGo,DEL,BLR,2026-04-18 17:03:41.703,2026-04-18 18:12:41.703,6F171,,False,2026-04-18 18:12:41.703,False,69.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F027,IndiGo,BLR,DEL,2026-04-18 16:52:41.701,2026-04-18 18:21:41.701,6F027,,False,2026-04-18 18:21:41.701,False,89.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F039,IndiGo,MAA,CCU,2026-04-18 16:43:41.701,2026-04-18 21:01:41.701,6F039,,False,2026-04-18 21:01:41.701,False,258.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F157,IndiGo,MAA,CCU,2026-04-18 16:37:41.703,2026-04-18 18:04:41.703,6F157,,False,2026-04-18 18:04:41.703,False,87.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F167,IndiGo,BLR,BOM,2026-04-18 16:26:41.703,2026-04-18 17:50:41.703,6F167,,False,2026-04-18 17:50:41.703,False,84.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F055,IndiGo,DEL,CCU,2026-04-18 16:21:41.701,2026-04-18 18:49:41.701,6F055,,False,2026-04-18 18:49:41.701,False,148.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F257,Unknown,MAA,CCU,2026-04-18 16:04:41.704,2026-04-18 19:55:41.704,6F257,,False,2026-04-18 19:55:41.704,False,231.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F103,IndiGo,CCU,MAA,2026-04-18 15:37:41.702,2026-04-18 18:32:41.702,6F103,,False,2026-04-18 18:32:41.702,False,175.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F076,IndiGo,CCU,HYD,2026-04-18 15:35:41.702,2026-04-18 16:20:41.702,6F076,,False,2026-04-18 16:20:41.702,False,45.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F240,IndiGo,DEL,HYD,2026-04-18 15:31:41.704,2026-04-18 19:56:41.704,6F240,,False,2026-04-18 19:56:41.704,False,265.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F037,IndiGo,BOM,MAA,2026-04-18 14:51:41.701,2026-04-18 17:23:41.701,6F037,,False,2026-04-18 17:23:41.701,False,152.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F252,Unknown,MAA,BLR,2026-04-18 14:25:41.701,2026-04-18 18:52:41.701,6F252,,False,2026-04-18 18:52:41.701,False,267.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F107,IndiGo,CCU,BLR,2026-04-18 14:14:41.702,2026-04-18 17:14:42.000,6F107,,False,2026-04-18 17:14:42.000,False,180.0049666666667,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F264,Unknown,DEL,HYD,2026-04-18 14:03:41.701,2026-04-18 18:23:41.701,6F264,,False,2026-04-18 18:23:41.701,False,260.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F222,IndiGo,HYD,MAA,2026-04-18 14:01:41.704,2026-04-18 16:11:41.704,6F222,,False,2026-04-18 16:11:41.704,False,130.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F227,IndiGo,MAA,BOM,2026-04-18 13:16:41.704,2026-04-18 17:41:41.704,6F227,,False,2026-04-18 17:41:41.704,False,265.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F192,IndiGo,CCU,BLR,2026-04-18 12:20:41.703,2026-04-18 16:45:41.703,6F192,,False,2026-04-18 16:45:41.703,False,265.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F173,IndiGo,BOM,CCU,2026-04-18 12:19:41.703,2026-04-18 13:08:41.703,6F173,,False,2026-04-18 13:08:41.703,False,49.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F109,IndiGo,BLR,BOM,2026-04-18 12:00:41.702,2026-04-18 12:51:41.702,6F109,,False,2026-04-18 12:51:41.702,False,51.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F144,IndiGo,HYD,BOM,2026-04-18 11:56:41.702,2026-04-18 15:11:41.702,6F144,,False,2026-04-18 15:11:41.702,False,195.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F210,IndiGo,HYD,DEL,2026-04-18 11:51:41.703,2026-04-18 15:58:41.703,6F210,,False,2026-04-18 15:58:41.703,False,247.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F154,IndiGo,CCU,DEL,2026-04-18 11:26:41.703,2026-04-18 12:23:41.703,6F154,,False,2026-04-18 12:23:41.703,False,57.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F161,IndiGo,MAA,DEL,2026-04-18 11:24:41.703,2026-04-18 12:21:41.703,6F161,,False,2026-04-18 12:21:41.703,False,57.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F203,IndiGo,BLR,HYD,2026-04-18 11:05:41.703,2026-04-18 12:56:41.703,6F203,,False,2026-04-18 12:56:41.703,False,111.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F124,IndiGo,BLR,BOM,2026-04-18 10:47:41.702,2026-04-18 15:21:41.702,6F124,,False,2026-04-18 15:21:41.702,False,274.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F137,IndiGo,CCU,DEL,2026-04-18 10:45:41.702,2026-04-18 15:01:41.702,6F137,,False,2026-04-18 15:01:41.702,False,256.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F048,IndiGo,HYD,DEL,2026-04-18 10:27:41.701,2026-04-18 11:18:41.701,6F048,,False,2026-04-18 11:18:41.701,False,51.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F131,IndiGo,BLR,HYD,2026-04-18 10:22:41.702,2026-04-18 14:20:41.702,6F131,,False,2026-04-18 14:20:41.702,False,238.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F165,IndiGo,BLR,BOM,2026-04-18 10:11:41.703,2026-04-18 11:09:41.703,6F165,,False,2026-04-18 11:09:41.703,False,58.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F266,Unknown,CCU,MAA,2026-04-18 09:49:41.703,2026-04-18 11:17:41.703,6F266,,False,2026-04-18 11:17:41.703,False,88.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F138,IndiGo,HYD,BLR,2026-04-18 09:49:41.702,2026-04-18 12:53:41.702,6F138,,False,2026-04-18 12:53:41.702,False,184.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F119,IndiGo,DEL,BOM,2026-04-18 09:19:41.702,2026-04-18 11:33:41.702,6F119,,False,2026-04-18 11:33:41.702,False,134.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F208,IndiGo,CCU,BOM,2026-04-18 08:27:41.703,2026-04-18 11:34:41.703,6F208,,False,2026-04-18 11:34:41.703,False,187.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F153,IndiGo,CCU,BLR,2026-04-18 08:23:41.703,2026-04-18 12:20:41.703,6F153,,False,2026-04-18 12:20:41.703,False,237.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F267,Unknown,DEL,MAA,2026-04-18 07:56:41.703,2026-04-18 11:49:41.703,6F267,,False,2026-04-18 11:49:41.703,False,233.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F185,IndiGo,CCU,DEL,2026-04-18 07:49:41.703,2026-04-18 10:08:41.703,6F185,,False,2026-04-18 10:08:41.703,False,139.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F155,IndiGo,DEL,BLR,2026-04-18 07:47:41.703,2026-04-18 08:20:41.703,6F155,,False,2026-04-18 08:20:41.703,False,33.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F225,IndiGo,HYD,CCU,2026-04-18 07:33:41.704,2026-04-18 12:12:41.704,6F225,,False,2026-04-18 12:12:41.704,False,279.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F033,IndiGo,DEL,HYD,2026-04-18 07:08:41.701,2026-04-18 09:08:41.701,6F033,,False,2026-04-18 09:08:41.701,False,120.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F244,IndiGo,MAA,CCU,2026-04-18 07:07:41.704,2026-04-18 08:31:41.704,6F244,,False,2026-04-18 08:31:41.704,False,84.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F081,IndiGo,MAA,BLR,2026-04-18 06:04:41.702,2026-04-18 07:43:41.702,6F081,,False,2026-04-18 07:43:41.702,False,99.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F088,IndiGo,CCU,BLR,2026-04-18 05:51:41.702,2026-04-18 08:22:41.702,6F088,,False,2026-04-18 08:22:41.702,False,151.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F121,IndiGo,HYD,MAA,2026-04-18 05:44:41.702,2026-04-18 10:42:41.702,6F121,,False,2026-04-18 10:42:41.702,False,298.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F060,IndiGo,DEL,BLR,2026-04-18 05:29:41.701,2026-04-18 07:29:42.000,6F060,,False,2026-04-18 07:29:42.000,False,120.00498333333333,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F120,IndiGo,BLR,BOM,2026-04-18 05:14:41.702,2026-04-18 06:14:41.702,6F120,,False,2026-04-18 06:14:41.702,False,60.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F217,IndiGo,BLR,BOM,2026-04-18 05:13:41.704,2026-04-18 08:01:41.704,6F217,,False,2026-04-18 08:01:41.704,False,168.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F139,IndiGo,HYD,MAA,2026-04-18 04:55:41.702,2026-04-18 08:17:41.702,6F139,,False,2026-04-18 08:17:41.702,False,202.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F062,IndiGo,CCU,DEL,2026-04-18 04:55:41.701,2026-04-18 06:22:41.701,6F062,,False,2026-04-18 06:22:41.701,False,87.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F100,IndiGo,BOM,BLR,2026-04-18 04:40:41.702,2026-04-18 07:49:41.702,6F100,,False,2026-04-18 07:49:41.702,False,189.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F228,IndiGo,HYD,MAA,2026-04-18 04:36:41.704,2026-04-18 09:27:41.704,6F228,,False,2026-04-18 09:27:41.704,False,291.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F160,IndiGo,MAA,BLR,2026-04-18 04:09:41.703,2026-04-18 08:26:41.703,6F160,,False,2026-04-18 08:26:41.703,False,257.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F101,IndiGo,BOM,MAA,2026-04-18 03:18:41.702,2026-04-18 08:15:41.702,6F101,,False,2026-04-18 08:15:41.702,False,297.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F006,IndiGo,BOM,BLR,2026-04-18 03:06:41.701,2026-04-18 05:06:42.000,6F006,,False,2026-04-18 05:06:42.000,False,120.00498333333333,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F265,Unknown,DEL,HYD,2026-04-18 02:27:41.703,2026-04-18 03:24:41.703,6F265,,False,2026-04-18 03:24:41.703,False,57.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F110,IndiGo,HYD,DEL,2026-04-18 02:27:41.702,2026-04-18 05:48:41.702,6F110,,False,2026-04-18 05:48:41.702,False,201.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F072,IndiGo,BLR,CCU,2026-04-18 02:14:41.702,2026-04-18 03:11:41.702,6F072,,False,2026-04-18 03:11:41.702,False,57.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F159,IndiGo,CCU,BOM,2026-04-18 02:08:41.703,2026-04-18 02:43:41.703,6F159,,False,2026-04-18 02:43:41.703,False,35.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F095,IndiGo,BLR,MAA,2026-04-18 01:53:41.702,2026-04-18 05:34:41.702,6F095,,False,2026-04-18 05:34:41.702,False,221.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F130,IndiGo,DEL,HYD,2026-04-18 01:27:41.702,2026-04-18 02:45:41.702,6F130,,False,2026-04-18 02:45:41.702,False,78.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F247,IndiGo,DEL,HYD,2026-04-18 01:27:41.702,2026-04-18 02:45:41.702,6F247,,False,2026-04-18 02:45:41.702,False,78.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F231,IndiGo,HYD,MAA,2026-04-18 01:16:41.704,2026-04-18 05:43:41.704,6F231,,False,2026-04-18 05:43:41.704,False,267.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F102,IndiGo,HYD,MAA,2026-04-18 01:10:41.702,2026-04-18 02:24:41.702,6F102,,False,2026-04-18 02:24:41.702,False,74.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F008,IndiGo,DEL,BOM,2026-04-18 00:14:41.701,2026-04-18 04:59:41.701,6F008,,False,2026-04-18 04:59:41.701,False,285.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F106,IndiGo,BOM,CCU,2026-04-18 00:10:41.702,2026-04-18 01:52:41.702,6F106,,False,2026-04-18 01:52:41.702,False,102.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F069,IndiGo,MAA,BLR,2026-04-17 23:44:41.701,2026-04-18 03:17:41.701,6F069,,False,2026-04-18 03:17:41.701,True,213.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F032,IndiGo,DEL,BOM,2026-04-17 23:43:41.701,2026-04-18 02:22:41.701,6F032,,False,2026-04-18 02:22:41.701,True,159.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F108,IndiGo,DEL,HYD,2026-04-17 23:41:41.702,2026-04-18 03:23:41.702,6F108,,False,2026-04-18 03:23:41.702,True,222.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F045,IndiGo,BOM,HYD,2026-04-17 23:04:41.701,2026-04-18 03:38:41.701,6F045,,False,2026-04-18 03:38:41.701,True,274.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F096,IndiGo,MAA,BLR,2026-04-17 22:45:41.702,2026-04-18 02:58:41.702,6F096,,False,2026-04-18 02:58:41.702,True,253.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F205,IndiGo,HYD,BOM,2026-04-17 22:16:41.703,2026-04-18 00:02:41.703,6F205,,False,2026-04-18 00:02:41.703,True,106.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F054,IndiGo,HYD,BLR,2026-04-17 22:00:41.701,2026-04-18 01:25:41.701,6F054,,False,2026-04-18 01:25:41.701,True,205.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F216,IndiGo,BLR,DEL,2026-04-17 21:58:41.704,2026-04-18 02:51:41.704,6F216,,False,2026-04-18 02:51:41.704,True,293.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F186,IndiGo,HYD,BOM,2026-04-17 21:48:41.703,2026-04-18 02:02:41.703,6F186,,False,2026-04-18 02:02:41.703,True,254.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F242,IndiGo,BLR,MAA,2026-04-17 21:10:41.704,2026-04-18 01:04:41.704,6F242,,False,2026-04-18 01:04:41.704,True,234.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F268,Unknown,DEL,MAA,2026-04-17 20:29:41.701,2026-04-17 21:58:41.701,6F268,,False,2026-04-17 21:58:41.701,False,89.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F082,IndiGo,BOM,BLR,2026-04-17 20:26:41.702,2026-04-17 22:26:41.702,6F082,,False,2026-04-17 22:26:41.702,False,120.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F147,IndiGo,HYD,MAA,2026-04-17 19:57:41.703,2026-04-18 00:31:41.703,6F147,,False,2026-04-18 00:31:41.703,True,274.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F080,IndiGo,HYD,MAA,2026-04-17 19:47:41.702,2026-04-17 23:13:41.702,6F080,,False,2026-04-17 23:13:41.702,False,206.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F241,IndiGo,DEL,HYD,2026-04-17 18:27:41.704,2026-04-17 19:02:41.704,6F241,,False,2026-04-17 19:02:41.704,False,35.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F183,IndiGo,MAA,HYD,2026-04-17 17:08:41.703,2026-04-17 19:52:41.703,6F183,,False,2026-04-17 19:52:41.703,False,164.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F089,IndiGo,DEL,HYD,2026-04-17 17:06:41.702,2026-04-17 19:10:41.702,6F089,,False,2026-04-17 19:10:41.702,False,124.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F207,IndiGo,BOM,HYD,2026-04-17 16:59:41.703,2026-04-17 21:00:41.703,6F207,,False,2026-04-17 21:00:41.703,False,241.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F223,IndiGo,MAA,BLR,2026-04-17 16:47:41.704,2026-04-17 17:21:41.704,6F223,,False,2026-04-17 17:21:41.704,False,34.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F116,IndiGo,MAA,CCU,2026-04-17 16:43:41.702,2026-04-17 19:02:41.702,6F116,,False,2026-04-17 19:02:41.702,False,139.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F093,IndiGo,CCU,DEL,2026-04-17 16:09:41.702,2026-04-17 20:00:41.702,6F093,,False,2026-04-17 20:00:41.702,False,231.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F040,IndiGo,HYD,CCU,2026-04-17 15:52:41.701,2026-04-17 20:33:41.701,6F040,,False,2026-04-17 20:33:41.701,False,281.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F239,IndiGo,CCU,BOM,2026-04-17 15:24:41.704,2026-04-17 17:37:41.704,6F239,,False,2026-04-17 17:37:41.704,False,133.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F218,IndiGo,BLR,BOM,2026-04-17 15:16:41.704,2026-04-17 19:03:41.704,6F218,,False,2026-04-17 19:03:41.704,False,227.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F011,IndiGo,MAA,BLR,2026-04-17 15:16:41.701,2026-04-17 17:16:42.000,6F011,,False,2026-04-17 17:16:42.000,False,120.00498333333333,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F090,IndiGo,HYD,BLR,2026-04-17 15:10:41.702,2026-04-17 19:22:41.702,6F090,,False,2026-04-17 19:22:41.702,False,252.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F200,IndiGo,HYD,DEL,2026-04-17 14:54:41.703,2026-04-17 19:41:41.703,6F200,,False,2026-04-17 19:41:41.703,False,287.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F162,IndiGo,CCU,BOM,2026-04-17 14:50:41.703,2026-04-17 17:44:41.703,6F162,,False,2026-04-17 17:44:41.703,False,174.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F002,IndiGo,BLR,MAA,2026-04-17 14:11:41.700,2026-04-17 17:34:41.700,6F002,,False,2026-04-17 17:34:41.700,False,203.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F258,Unknown,BOM,DEL,2026-04-17 13:54:41.703,2026-04-17 16:49:41.703,6F258,,False,2026-04-17 16:49:41.703,False,175.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F044,IndiGo,DEL,HYD,2026-04-17 13:25:41.701,2026-04-17 17:36:41.701,6F044,,False,2026-04-17 17:36:41.701,False,251.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F248,IndiGo,DEL,HYD,2026-04-17 13:25:41.701,2026-04-17 17:36:41.701,6F248,,False,2026-04-17 17:36:41.701,False,251.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F204,IndiGo,DEL,CCU,2026-04-17 13:23:41.703,2026-04-17 16:04:41.703,6F204,,False,2026-04-17 16:04:41.703,False,161.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F215,IndiGo,DEL,BLR,2026-04-17 13:00:41.703,2026-04-17 17:30:41.703,6F215,,False,2026-04-17 17:30:41.703,False,270.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F198,IndiGo,HYD,BLR,2026-04-17 12:40:41.703,2026-04-17 17:39:41.703,6F198,,False,2026-04-17 17:39:41.703,False,299.0,False,,,,,,
+flights,invalid flight ID or duration anomaly,6F057,IndiGo,MAA,DEL,2026-04-17 12:32:41.701,2026-04-17 15:50:41.701,6F057,,False,2026-04-17 15:50:41.701,False,198.0,False,,,,,,
+bookings,invalid status or missing booking reference,UK094,,,,,,,,,,,,,B1015,4ff00403397e83e71b7bac58d46092c1f4c0558542749ae813ddab899eacdeb3,2025-10-21 11:37:36.951,,6F,False
+bookings,invalid status or missing booking reference,UK026,,,,,,,,,,,,,B1033,afbd94f1848fd41087cc5acb8d09e72c4f5b0aad55a614d2754a32417907ca51,2025-05-06 11:37:36.951,,19A,False
+bookings,invalid status or missing booking reference,SJ214,,,,,,,,,,,,,B1045,c24146553498b11133c73b471f128c4034fbbc101da3d55d16b786b97abc6fc3,2026-03-19 11:37:36.951,,18C,False
+bookings,invalid status or missing booking reference,SJ153,,,,,,,,,,,,,B1049,08cb2d3a1162156fae3f8de8547a4392bc4947f04eba00d88607c9bff433f76a,2025-07-28 11:37:36.951,INVALID,3C,False
+bookings,invalid status or missing booking reference,6F017,,,,,,,,,,,,,B1097,ae0406e331f05b6c3cc1862b5e628541a2ba43f543dafe5dcc31a1ea710368e4,2025-08-26 11:37:36.951,,34F,False
+bookings,invalid status or missing booking reference,6F245,,,,,,,,,,,,,B1098,b0319151afd041aba0c645d06c0f8abea9d2711de08340c91f4602b325080fec,2025-10-15 11:37:36.951,,13D,False
+bookings,invalid status or missing booking reference,SJ196,,,,,,,,,,,,,B1102,8dc928bdd6a7a7903365d77c2b04a4497020886d70a70ea3f8a4d2574e755aee,2025-10-06 11:37:36.951,INVALID,15F,False
+bookings,invalid status or missing booking reference,AI146,,,,,,,,,,,,,B1162,8fe4a9cee575ed16d908c362cb41ce216bda4d23211d948dbf7c837197a1dc9d,2025-04-22 11:37:36.951,INVALID,32D,False
+bookings,invalid status or missing booking reference,SJ022,,,,,,,,,,,,,B1198,86d87cbac905451cd1cf943b93648d0f6b147644f646a978feb82bf0245d63b5,2025-06-16 11:37:36.951,INVALID,29A,False
+bookings,invalid status or missing booking reference,SJ052,,,,,,,,,,,,,B1208,92eb1a7f77b6b0b1587404e822cb87abcada05c31c4923f5f5cb4cc9bdeeff95,2025-07-22 11:37:36.951,INVALID,9A,False
+bookings,invalid status or missing booking reference,UK194,,,,,,,,,,,,,B1214,d4b256a73ebbf0e5b9719293cd5872b7a42284f944c914c2bd3b5a53a3ea41fd,2025-08-14 11:37:36.951,,23B,False
+bookings,invalid status or missing booking reference,6F056,,,,,,,,,,,,,B1223,b63f0c822b6e830ae9c355c7894d5c011f41efd0b6667b3a0d2cf9230d8bea10,2026-04-09 11:37:36.951,,15A,False
+bookings,invalid status or missing booking reference,AI047,,,,,,,,,,,,,B1237,c8825a62bdff38dd0a66384c87a053d4c10cda8640c32505017564104dd13cbd,2025-11-16 11:37:36.951,,15B,False
+bookings,invalid status or missing booking reference,SJ186,,,,,,,,,,,,,B1238,05eea77c075ff7329e9eb383df908cc03d91db1aad14d9e93f0e534a08c2d972,2025-10-20 11:37:36.951,,8E,False
+bookings,invalid status or missing booking reference,6F201,,,,,,,,,,,,,B1245,ddb723773923fb83eddc5684a1b82d5841819a41e1397eb83c585f4829b3e5f6,2026-04-17 11:37:36.951,,26A,False
+bookings,invalid status or missing booking reference,AI102,,,,,,,,,,,,,B1268,ae37fa4a6e4efefde12bd52af53066456a5c1b5a8b5ad036317a0dc0218e0db1,2026-01-16 11:37:36.951,INVALID,12A,False
+bookings,invalid status or missing booking reference,SJ017,,,,,,,,,,,,,B1270,dc3fb38aab9df1c81e21b57b1e36fec002153e68c6f7feff5b8aab07689146ee,2025-06-02 11:37:36.951,,22E,False
+bookings,invalid status or missing booking reference,AI150,,,,,,,,,,,,,B1273,cd605f21ec12328c2775cc58f3d9ef27effc5e4776b6019e85bf0321e43c9109,2025-06-05 11:37:36.951,,28B,False
+bookings,invalid status or missing booking reference,6F019,,,,,,,,,,,,,B1279,d5169308ce3fd20e529e3b94cc846e5723dbadb54b0c69af7ceb2713f60c1692,2025-05-10 11:37:36.951,,28C,False
+bookings,invalid status or missing booking reference,AI103,,,,,,,,,,,,,B1283,19298fd58334c2576e49a117e7714d5a8dc0fc9a1b9e879f7f8eb13fcb898319,2025-05-08 11:37:36.951,INVALID,29D,False
+bookings,invalid status or missing booking reference,6F010,,,,,,,,,,,,,B1286,3637cf9c2a0f3c442d1fc9871e196e275b5092307c15aaa343430617f1846df4,2025-09-25 11:37:36.951,INVALID,33B,False
+bookings,invalid status or missing booking reference,6F022,,,,,,,,,,,,,B1304,54880709cf829c2d0d703d6ee6f77deed4c47aeb026f35def2f7a6b2e789432d,2025-12-13 11:37:36.951,INVALID,18E,False
+bookings,invalid status or missing booking reference,AI015,,,,,,,,,,,,,B1312,fdff1477af852fb0e86fc129c5b2510e9c5f6a722608ded739cdc6277962b28e,2026-03-29 11:37:36.951,,6E,False
+bookings,invalid status or missing booking reference,6F246,,,,,,,,,,,,,B1337,323969a7963eafc6513bc14886c789e73bb1919adde854ed931330089747a1aa,2025-10-20 11:37:36.951,INVALID,4C,False
+bookings,invalid status or missing booking reference,6F065,,,,,,,,,,,,,B1357,9985af7cd23dbc3b0b3d6d654015391b8f54314efe44e9f3501c1b8821178042,2026-02-05 11:37:36.951,,14A,False
+bookings,invalid status or missing booking reference,AI105,,,,,,,,,,,,,B1360,547d9344fb2018b3014f8911219667d36401d2e162a40cb2f7f9302c1a662630,2025-06-15 11:37:36.951,,18D,False
+bookings,invalid status or missing booking reference,6F038,,,,,,,,,,,,,B1388,f4133d1257c4df22d1f3160f167fa0b82a2d16ffc2fa6076b0dd622aa9284cbf,2025-09-23 11:37:36.951,INVALID,8D,False
+bookings,invalid status or missing booking reference,6F085,,,,,,,,,,,,,B1389,8e26350544cae3f0f70ce8db62951546a2e8e09af01719b2917ac5c05e1798cc,2026-02-22 11:37:36.951,,30D,False
+bookings,invalid status or missing booking reference,UK023,,,,,,,,,,,,,B1395,3c5a756d3cd50af2c1cceb589f32a40d1a67aed43e64136cfbab05982a63230e,2026-02-10 11:37:36.951,INVALID,23B,False
+bookings,invalid status or missing booking reference,AI039,,,,,,,,,,,,,B1396,cb8500518a266d0a024d0a16e212d8f568a9d5a6ff092b0c3a15c9f2851823d4,2025-08-03 11:37:36.951,,13E,False
+bookings,invalid status or missing booking reference,UK155,,,,,,,,,,,,,B1401,3d817a3baaeab5918782cebbce2614e3be8b2aa2e4a7d6573775ad000da95c0a,2025-04-20 11:37:36.951,,21D,False
+bookings,invalid status or missing booking reference,6F253,,,,,,,,,,,,,B1404,6c78ca347eb017af2b5b06207cb1dbb8974d9429ed43b397a5e91b4af78ada20,2026-03-07 11:37:36.951,INVALID,16A,False
+bookings,invalid status or missing booking reference,SJ038,,,,,,,,,,,,,B1413,8249f45e7acc37f4632d0a259fbec44a4ed875f9ba9f655e0c57b224d001a1f9,2025-10-05 11:37:36.951,,14A,False
+bookings,invalid status or missing booking reference,UK058,,,,,,,,,,,,,B1421,028cb64631392a377977c87bedcb83b08efa3795ef7252615e60dd9e8b72102e,2025-10-03 11:37:36.951,,23C,False
+bookings,invalid status or missing booking reference,AI073,,,,,,,,,,,,,B1438,c69e01f1f8c5b49bd6cf223cf519595b36def4bdcaa285f1453b19422941dcc4,2026-04-01 11:37:36.951,,20D,False
+bookings,invalid status or missing booking reference,SJ131,,,,,,,,,,,,,B1441,7a73ce2a7fc78ef30e7d3767823226ec53bad36409ec5e2d54d4373e77bfd26e,2025-09-22 11:37:36.951,INVALID,13A,False
+bookings,invalid status or missing booking reference,SJ119,,,,,,,,,,,,,B1483,493f03c091f1bb5b6181ee7ab114c66faeda7d62a9ca480f33d547d492e5b590,2025-06-09 11:37:36.951,,26B,False
+bookings,invalid status or missing booking reference,AI033,,,,,,,,,,,,,B1499,39d1daf0321a65a7a8989f5b89cb63730fa04b1f78b6cde9b2f3502eab8f0d3a,2025-06-17 11:37:36.952,INVALID,17C,False
+bookings,invalid status or missing booking reference,AI023,,,,,,,,,,,,,B1508,fb80277747aac668145bc47a70b7ee1c7a652955c60fd434859603bc2bb0f212,2025-07-31 11:37:36.952,,9C,False
+bookings,invalid status or missing booking reference,6F221,,,,,,,,,,,,,B1517,611287edff2d9e602fc6312c5850f6c8c7f4718408f7c4e4adbda51ff8cefd15,2026-01-16 11:37:36.952,INVALID,31B,False
+bookings,invalid status or missing booking reference,SJ147,,,,,,,,,,,,,B1518,255778825079acb5b763b6559c5fc45e24e91da572163fe53460a36801cb563a,2026-03-20 11:37:36.952,INVALID,30A,False
+bookings,invalid status or missing booking reference,AI254,,,,,,,,,,,,,B1525,bf4ff98420fadf43b6c000838d75a055de2f506c98c68535320fa5759aa300cd,2025-05-29 11:37:36.952,,11E,False
+bookings,invalid status or missing booking reference,6F066,,,,,,,,,,,,,B1529,5c2ee892f9c113da083b5f93cb2cd85c59404e7f20884cd0a9799298b91cbc28,2025-04-30 11:37:36.952,,34C,False
+bookings,invalid status or missing booking reference,UK095,,,,,,,,,,,,,B1530,a283a09aa25e74844adbaa72805adfee5de273ca179f93f31826cf2ad4dc9551,2025-12-08 11:37:36.952,INVALID,23E,False
+bookings,invalid status or missing booking reference,AI002,,,,,,,,,,,,,B1536,0a7fd94c6462ec540a915ec379638303b93d6dfc232cab50baaa2fd78eab14ee,2025-06-01 11:37:36.952,,4C,False
+bookings,invalid status or missing booking reference,6F104,,,,,,,,,,,,,B1551,b80f0792f54b48b735169ad48fab43e1494809354d2a41baabde61a641586c52,2025-11-14 11:37:36.952,INVALID,8E,False
+bookings,invalid status or missing booking reference,SJ032,,,,,,,,,,,,,B1576,a0c14a5b58b318831041a0da4ae6ad5e5c47e2a06ebdc9e3c8b149b595d8a682,2025-10-20 11:37:36.952,,6F,False
+bookings,invalid status or missing booking reference,SJ072,,,,,,,,,,,,,B1583,0b40c4ed7240e82b9daeb1d3d1dfec63f961836cb323b1a80f47700b744efddb,2026-02-22 11:37:36.952,,33D,False
+bookings,invalid status or missing booking reference,6F087,,,,,,,,,,,,,B1593,4f298002003d87c1d612ccc5bd08710bf4a0e8820b936ee256fe2747d11f2c86,2025-09-24 11:37:36.952,,1A,False
+bookings,invalid status or missing booking reference,6F042,,,,,,,,,,,,,B1602,d74aca86f92c65cafecdfff785341967ab44bd2039bb62550cf700740e5c15a3,2025-07-07 11:37:36.952,,2A,False
+bookings,invalid status or missing booking reference,AI101,,,,,,,,,,,,,B1607,381fb8bf617b85b1500be36389446b3dcb63971f826b60836e4b32f6d1d2c80a,2026-02-02 11:37:36.952,INVALID,30F,False
+bookings,invalid status or missing booking reference,AI116,,,,,,,,,,,,,B1614,687eea855b2141c9b9b456d62f95581bc6ee5de2ee9f5f5a62c04e8464f8bf98,2025-05-11 11:37:36.952,,30B,False
+bookings,invalid status or missing booking reference,AI070,,,,,,,,,,,,,B1617,c8825a62bdff38dd0a66384c87a053d4c10cda8640c32505017564104dd13cbd,2025-05-10 11:37:36.952,INVALID,18A,False
+bookings,invalid status or missing booking reference,AI136,,,,,,,,,,,,,B1635,6d64c5db9320443a09f781a2448e89f34f0981a8a62009bf634605c5eed2f85c,2025-08-14 11:37:36.952,INVALID,7C,False
+bookings,invalid status or missing booking reference,UK122,,,,,,,,,,,,,B1641,515ee739d3b1e850ea87009babf136b0542638289a3c4aa231c50bec8a47e40c,2026-03-27 11:37:36.952,,28D,False
+bookings,invalid status or missing booking reference,SJ105,,,,,,,,,,,,,B1650,4501ed1c58dd1fd2e579358f8d11c8862f6f538680eb712ec38db5827d52e883,2026-04-03 11:37:36.952,,10D,False
+bookings,invalid status or missing booking reference,AI131,,,,,,,,,,,,,B1654,9a5d603fd6eacc409027cb091b3ea3b03a3857bd38efe4a1b2ad7e450b585085,2025-08-14 11:37:36.952,,31A,False
+bookings,invalid status or missing booking reference,AI147,,,,,,,,,,,,,B1673,c9a061d04a6e0a5d88cffda77b795792bfeebad00ac005bbf03dfd8987a6a0ea,2025-06-12 11:37:36.952,,28B,False
+bookings,invalid status or missing booking reference,AI253,,,,,,,,,,,,,B1680,5462e26b2c4f69495b9a7e04fdb2576e4484537640762a2bd5ef3724ad75b5d3,2026-03-19 11:37:36.952,,11F,False
+bookings,invalid status or missing booking reference,6F167,,,,,,,,,,,,,B1711,04c31ead0dacb627c690602a1aa6e9a1d82a08b75fce9493dce8c3c852365ce2,2026-01-29 11:37:36.952,,4C,False
+bookings,invalid status or missing booking reference,6F137,,,,,,,,,,,,,B1743,5aadc6c083027b2b87c4aecc6767c86098104772d3a66d0dda11ab4cd031b0b5,2025-11-21 11:37:36.952,INVALID,6F,False
+bookings,invalid status or missing booking reference,SJ111,,,,,,,,,,,,,B1769,bc683045521964cc94c27ae99da8e08e4629083220090d5554cb70c1e97832f6,2025-11-23 11:37:36.952,INVALID,6F,False
+bookings,invalid status or missing booking reference,6F109,,,,,,,,,,,,,B1772,8827f01ea81cde4c6fa53dba33d2ae9301c138d84422893db8d51fadaa58f6e1,2025-08-29 11:37:36.952,,10B,False
+bookings,invalid status or missing booking reference,AI111,,,,,,,,,,,,,B1802,9238aed697b53737552fb13265a728aa7c4afa319dee6756640baac14e5946db,2025-06-30 11:37:36.952,INVALID,16B,False
+bookings,invalid status or missing booking reference,AI104,,,,,,,,,,,,,B1813,448e628481ab8a8379ecc20c077dc8fe5c213bd5675ccb10c8e3ae3be06e316e,2025-04-21 11:37:36.952,INVALID,9D,False
+bookings,invalid status or missing booking reference,SJ129,,,,,,,,,,,,,B1849,b6212904303d11c84dc00f8f5c6098f40ef16b4cfe72e0e8f527f43238cbd88b,2025-06-24 11:37:36.952,INVALID,12E,False
+bookings,invalid status or missing booking reference,6F008,,,,,,,,,,,,,B1858,28f3c2a8d2b4e70a54c280efe2a2d76a3e7523064fd65364d23f0a86d872cee7,2025-11-25 11:37:36.952,,10B,False
+bookings,invalid status or missing booking reference,UK043,,,,,,,,,,,,,B1860,252b1f4fb0c859e1f5fe4dd3f39223ac31dff1968ab3d2b5930b6909e6d1777c,2025-08-01 11:37:36.952,,3A,False
+bookings,invalid status or missing booking reference,6F130,,,,,,,,,,,,,B1886,0c2667ac3ad287d572e2898ace23dff926bf2ae1f6c450ede0c679b75f2572b9,2026-02-12 11:37:36.952,INVALID,9D,False
+bookings,invalid status or missing booking reference,UK180,,,,,,,,,,,,,B1917,431bbc9bb28a7a5e0bf25020314c9e2c077bcec5d4488d3ac5565978cd0a75fe,2025-08-03 11:37:36.952,INVALID,27A,False
+bookings,invalid status or missing booking reference,UK148,,,,,,,,,,,,,B1975,72097e858425a287cb6a182758abb1f765a4f22ee53503cc2271728328ffd2b9,2025-08-26 11:37:36.952,,20E,False
+bookings,invalid status or missing booking reference,6F162,,,,,,,,,,,,,B1982,906ea2a505d51fd41a2b2f02d9dfc962d3831101cd8232792ccfed55ec6303da,2025-06-17 11:37:36.952,,7A,False
+bookings,invalid status or missing booking reference,UK101,,,,,,,,,,,,,B1983,9a57d7ee1548ab67caf8771c78d3e18274a374f4171abf9c1204676920d8051c,2025-06-28 11:37:36.952,,27A,False
+bookings,invalid status or missing booking reference,6F002,,,,,,,,,,,,,B1989,c78855de749f50c7f98e978b2cfdd41aa62ab578f4c1a64e282225ec59b10bc2,2025-12-10 11:37:36.952,,16F,False
+bookings,invalid status or missing booking reference,UK124,,,,,,,,,,,,,B1999,109ca04420be7bd482269ed2ae4255dcd71241c4ba0ccae0fec8c698ff0eb2ae,2025-08-08 11:37:36.952,INVALID,12B,False

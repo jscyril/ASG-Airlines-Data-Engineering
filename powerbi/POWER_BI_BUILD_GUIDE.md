@@ -14,7 +14,7 @@ In Power BI Desktop, choose **Get Data → Text/CSV** and load the CSV files fro
 - `dim_route.csv`
 - `dim_date.csv`
 
-Set date/time and numeric types explicitly. Do not load the Silver passenger file or any raw passenger data into the report.
+Set date/time and numeric types explicitly. Do not load the Silver passenger file or any raw passenger data into the report. After regenerating the pipeline outputs, refresh the model and remove stale fields such as `passenger_id`, `passport_number`, or emergency-contact columns. The safe booking key is `passenger_key_hash`.
 
 ## Recommended relationships
 

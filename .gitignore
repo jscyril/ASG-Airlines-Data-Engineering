@@ -9,22 +9,17 @@ __pycache__/
 !.env.example
 
 # Generated data and logs
-data/curated/*
-!data/curated/*.csv
-data/quarantine/*
-!data/quarantine/*.csv
-data/quality/*
-!data/quality/*.csv
-data/gold/*.parquet
-data/raw/*.xlsx
-data/raw/*.xls
-*.zip
+data/curated/
+data/quarantine/
+data/quality/
+data/raw/
+*.xlsx
 *.log
-
-.pytest_cache/
 
 # Azure and Power BI local artifacts
 *.pfx
 *.pem
 *.key
 *.pbix.bak
+*.docx.bak
+*.pbix

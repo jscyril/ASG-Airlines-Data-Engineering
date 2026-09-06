@@ -1,44 +1,34 @@
-# ASG Airlines Data Engineering Case Study
+# ASG Airlines — End-to-End Data Engineering Case Study
 
-An end-to-end airline operations pipeline that ingests flight, booking, payment, and passenger data; validates and cleans it; protects sensitive passenger information; produces analytics-ready Gold tables; and feeds a Power BI report.
+This repository implements a reproducible local Python version of the ASG Airlines pipeline. It profiles the supplied workbook, applies quality rules, recalculates overnight flight durations, creates PII-safe curated data, quarantines invalid records, and builds Gold facts, dimensions, and KPI aggregates for Power BI.
 
-## Architecture
+## Run locally
 
-```text
-Source workbook → Bronze → Silver → Quarantine
-                              ↓
-                            Gold → Power BI
-```
-
-The cloud target architecture uses Azure Data Factory for orchestration, ADLS Gen2 for storage, Azure Databricks and Delta Lake for transformation, Key Vault and Microsoft Entra ID for security, Azure Monitor for observability, and Power BI for reporting.
-
-## Local execution
-
-Install [uv](https://docs.astral.sh/uv/getting-started/installation/), place the source workbook at `data/raw/UseCase - Airlines.xlsx`, then run:
+The project uses Python 3.11 and `uv`.
 
 ```bash
 uv sync
+uv run pytest
 uv run python src/profile.py
 uv run python src/transform.py
 uv run python src/gold.py
-uv run pytest -q
 ```
 
-## Outputs
+The source workbook must be available at `data/raw/UseCase - Airlines.xlsx`. Generated files are written to `data/curated/`, `data/quarantine/`, `data/quality/`, and `data/gold/`.
 
-- `data/quality/`: source and Silver quality reports
-- `data/curated/`: cleaned Silver CSV and Parquet datasets
-- `data/quarantine/`: records rejected or flagged by quality rules
-- `data/gold/`: facts, dimensions, and KPI aggregates for Power BI
-- `powerbi/`: report build guide and DAX measures
+## Pipeline layers
 
-## Data protection
+- **Raw/Bronze:** immutable source workbook, kept outside the reporting model.
+- **Curated/Silver:** normalized flights, bookings, payments, and `passengers_safe`; booking/passenger PII is removed or SHA-256 hashed.
+- **Quarantine:** rejected records with reason codes for audit and remediation.
+- **Gold:** `fact_flight_operations`, `fact_bookings`, `fact_payments`, dimensions, and route/airline/executive KPI aggregates.
 
-Raw passenger names, email, phone, Aadhaar, passport, and emergency-contact fields are excluded from analytical serving outputs. The original source file must remain in controlled storage and must not be committed to a public repository.
+See [docs/solution_walkthrough.md](docs/solution_walkthrough.md) and the formatted [Word walkthrough](docs/solution_walkthrough.docx) for architecture, data flow, rules, KPI definitions, security, and limitations.
 
-## Documentation
+## Power BI
 
-- [Solution approach](AIRLINES_SOLUTION_APPROACH.md)
-- [Execution runbook](AIRLINES_EXECUTION_RUNBOOK.md)
-- [Data quality rules](docs/data_quality_rules.md)
-- [Power BI build guide](powerbi/POWER_BI_BUILD_GUIDE.md)
+Load the CSV files from `data/gold/` plus the quality CSVs. Use the star/snowflake model described in [powerbi/POWER_BI_BUILD_GUIDE.md](powerbi/POWER_BI_BUILD_GUIDE.md), create measures from [powerbi/measures.dax](powerbi/measures.dax), and keep raw/curated passenger data out of the report. Save the completed report as `powerbi/ASG_Airlines.pbix` locally; PBIX files are intentionally ignored by Git.
+
+## Security note
+
+Raw workbook, generated raw extracts, quarantine outputs, and PBIX files may contain sensitive or local-only data and are excluded by `.gitignore`. In Azure, store raw PII in a restricted container and publish only Gold/PII-safe tables to Power BI.

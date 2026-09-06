@@ -23,11 +23,17 @@ def test_passenger_output_contains_no_raw_pii():
     assert "a@example.com" not in safe.astype(str).to_string()
 
 
-def test_booking_output_contains_no_passenger_pii():
+def test_booking_output_contains_no_raw_pii():
     bookings = pd.DataFrame(
-        [{"booking_id": "B1", "passenger_id": "P1", "flight_id": "AI001", "booking_date": "2025-01-01",
-          "status": "CONFIRMED", "passport_number": "X1", "seat_number": "1A",
-          "emergency_contact_name": "A", "emergency_contact_phone": "123"}]
+        [{"booking_id": "B1", "passenger_id": "P1", "flight_id": "AI001",
+          "booking_date": "2025-01-01", "status": "confirmed", "passport_number": "X123",
+          "seat_number": "12A", "emergency_contact_name": "Family",
+          "emergency_contact_phone": "9999999999"}]
     )
     safe, _, _ = transform_bookings(bookings)
-    assert not {"passenger_id", "passport_number", "emergency_contact_name", "emergency_contact_phone"}.intersection(safe.columns)
+    assert set(safe.columns) == {
+        "booking_id", "passenger_key_hash", "flight_id", "booking_date",
+        "status", "seat_number", "status_valid_flag",
+    }
+    assert "passport_number" not in safe.columns
+    assert "emergency_contact_phone" not in safe.columns

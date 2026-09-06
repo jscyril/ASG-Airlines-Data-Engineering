@@ -66,15 +66,26 @@ def transform_bookings(frame: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame,
     frame = _clean_text(frame)
     frame["booking_date"] = pd.to_datetime(frame["booking_date"], errors="coerce")
     frame["status"] = frame["status"].astype("string").str.upper()
+    # Keep only approved analytical attributes.  Passenger identifiers are
+    # retained only as a one-way hash so bookings can be joined to the safe
+    # passenger dimension without exposing raw PII.
+    frame["passenger_key_hash"] = frame["passenger_id"].map(
+        lambda value: hashlib.sha256(str(value).encode()).hexdigest() if pd.notna(value) else pd.NA
+    )
     allowed = {"CONFIRMED", "CANCELLED", "PENDING"}
     frame["status_valid_flag"] = frame["status"].isin(allowed)
     bad = ~frame["status_valid_flag"] | frame["booking_id"].isna() | frame["flight_id"].isna()
-    safe_columns = ["booking_id", "flight_id", "booking_date", "status", "status_valid_flag"]
-    quarantine = frame.loc[bad, safe_columns].copy()
+    approved_columns = [
+        "booking_id", "passenger_key_hash", "flight_id", "booking_date",
+        "status", "seat_number", "status_valid_flag",
+    ]
+    safe = frame[[column for column in approved_columns if column in frame.columns]].copy()
+    quarantine = safe.loc[bad].copy()
     quarantine.insert(0, "dataset", "bookings")
     quarantine.insert(1, "quarantine_reason", "invalid status or missing booking reference")
     quality = [{"dataset": "bookings", "rule": "invalid_status_or_key", "failed_records": int(bad.sum())}]
-    return frame[safe_columns], quarantine, quality
+    quality.append({"dataset": "bookings", "rule": "pii_removed", "failed_records": 0})
+    return safe, quarantine, quality
 
 
 def transform_payments(frame: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, list[dict[str, object]]]:
